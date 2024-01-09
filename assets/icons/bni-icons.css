@@ -1,0 +1,4312 @@
+.bni-ico {
+    width: 3em;
+    height: 3em;
+    display: inline-block;
+    text-align: right;
+    margin: 0.4em 0.05em 0.05em 0.2em;
+    background-size: 100% 100%;
+}
+
+.bni-ico-bni-dollar {
+    width: 2em;
+    height: 2em;
+    display: inline-block;
+    background-size: 100% 100%;
+    
+}
+
+.bni-ico-bni-meddium {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    background-size: 100% 100%;
+    
+}
+
+.bni-ico-bni-smallerr {
+    min-width: 1em;
+    height: 1em;
+    display: inline-block;
+    background-size: 100% 100%;
+    
+}
+
+.bni-ico-info-autodebit {
+    width: 2em;
+    height: 2em;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.bni-ico-check-autodebit {
+    width: 1.5em;
+    height: 1.5em;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.bni-ico-mpin {
+    width: 3.5em;
+    height: 2em;
+    display: inline-block;
+    text-align: right;
+    margin: 0.4em 0.05em 0.05em 0.2em;
+    background-size: 100% 100%;
+}
+
+.bni-ico-small {
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    text-align: right;
+    margin: 0.4em 0.05em 0.05em 0.2em;
+    background-size: 100% 100%;
+}
+
+.bni-ico-status {
+    width: 1em;
+    height: 1em;
+    display: none;
+    text-align: right;
+    margin: 0.3em 0.05em 0.05em 0.2em;
+    background-size: 100% 100%;
+    
+}
+.bni-ico-smaller {
+    width: 0.65em;
+    height: 0.65em;
+    display: inline-block;
+    text-align: right;
+    margin: 0.4em 0.05em 0.05em 0.2em;
+    background-size: 100% 100%;
+}
+
+.bni-ico-small-home {
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    text-align: right;
+    margin: 0.4em 0.05em 0.05em 0.2em;
+    background-size: 20% 20%;
+}
+
+.btn-fingerprint{
+    margin:0em;
+    padding:0em;
+    margin-top:-0.5em;
+}
+
+.btn-fingerprint:hover, .btn-fingerprint:focus{
+    border-color:transparent;
+}
+
+
+.bni-ico-auto {
+    min-width: 54px;
+    min-height: 53px;
+    width: 3.8em;
+    height: 3.8em;
+    display: block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    content: "";
+    position: relative;
+    left: -8%;
+}
+
+.bni-ico-contain{
+    width: 3.2em;
+    height: 3.2em;
+    min-width: 3.2rem;
+    max-height: 3.2rem;
+    display: inline-block;
+    text-align: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bni-ico-close{
+    width: 1.2em;
+    height: 1.2em;
+    min-width: 1.2rem;
+    max-height: 1.2rem;
+    display: inline-block;
+    text-align: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.bni-ico-bpjs{
+    width: 7em;
+    height: 7em;
+    min-width: 3.2rem;
+    max-height: 3.2rem;
+    display: inline-block;
+    text-align: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bni-ico-pegadaian{
+    width: 6em;
+    height: 6em;
+    min-width: 3.2rem;
+    max-height: 3.2rem;
+    display: inline-block;
+    text-align: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ico-xtra-small {
+    width: 1.25em;
+    height: 1.25em;
+}
+
+.ico-point{
+    width: 3px;
+    height: 3px;
+}
+
+.ico-small {
+    width: 1.85em;
+    height: 1.85em;
+}
+
+.ico-small-fingerprint {
+    width: 4em;
+    height: 4em;
+}
+
+.ico-medium-qr {
+    width: 3.5em;
+    height: 3.5em;
+}
+.ico-large {
+    width: 7em;
+    height: 7em;
+}
+
+.ico-med-large {
+    width: 5em;
+    height: 5em;
+}
+
+.ico-large-landing {
+    width: 10em;
+    height: 10em;
+}
+
+.ico-rotate-90 {
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+}
+
+.ico-rotate-180 {
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+}
+
+.ico-rotate-270 {
+    transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+}
+.ico-pagination{
+	background-image: url('assets/images/round.png');
+	width:150px
+}
+.ico-v-bar{
+	background-image: url('assets/images/v_bar.png');
+}
+.ico-arrow-right{
+	background-image: url('assets/images/arrow-right.png');
+}
+.ico-close-popup {
+    background-image: url('assets/images/close-x.png');
+    
+}
+.ico-close-x{
+	background-image: url('assets/images/close-x.png');
+	width:15px;
+	height:15px;
+	border:none;
+	outline: none;
+	text-decoration:none
+}
+.button-close-x{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+.ico-chevron-white {
+    background-image: url('assets/images/ico-up.svg');
+}
+.ico-chevron-solid-black {
+    background-image: url('assets/images/WelcomePage/BackNew.png');
+}
+.ico-history-white {
+    background-image: url('assets/images/ico-history.svg');
+}
+
+.ico-chevron-grey {
+    background-image: url('assets/images/ico-chevron-grey.svg');
+}
+.ico-get-contact {
+    background-image: url('assets/images/ico-get-contact.svg');
+}
+.ico-get-contact-new {
+    background-image: url('assets/images/NewMenu/ico-get-contact-new.svg');
+}
+.ico-bni-gift {
+    background-image: url('assets/images/ico-bni-gift.svg');
+}
+.ico-bni-gift-new {
+    background-image: url('assets/images/ico-bni-gift-new.png');
+}
+.ico-bni-fleksi {
+    background-image: url('assets/images/fleksi.png');
+}
+.ico-bni-fleksi-notif {
+    background-image: url('assets/images/fleksinotif.png');
+}
+.ico-bni-fleksi1 {
+    background-image: url('assets/images/digiLoan.svg');
+}
+.ico-bni-fleksi-notif1 {
+    background-image: url('assets/images/digiLoanX.svg');
+}
+.ico-chevron-orange {
+    background-image: url('assets/images/ico-chevron-orange.svg');
+}
+.ico-check-green {
+    background-image: url('assets/images/ico-check-green.png');
+}
+.ico-sms-banking-white {
+    background-image: url('assets/images/ico-sms-banking.svg');
+}
+
+.ico-46-mobile-white {
+    background-image: url('assets/images/ico-46-mobile.svg');
+}
+
+.ico-internet-banking-white {
+    background-image: url('assets/images/ico-internet-banking.svg');
+}
+
+.ico-e-form-white {
+    background-image: url('assets/images/ico-e-form.svg');
+}
+
+.ico-cash-go-white {
+    background-image: url('assets/images/ico-cash-go.svg');
+}
+
+.ico-lokasi-atm-white {
+    background-image: url('assets/images/ico-lokasi-atm.svg');
+}
+
+.ico-bni-call-white {
+    background-image: url('assets/images/ico-bni-call.svg');
+}
+
+.ico-faq-white {
+    background-image: url('assets/images/ico-faq.svg');
+}
+
+.ico-agen-46-mobile-new{
+	background-image: url('assets/images/ico-agen-46-mobile-new.svg');
+}
+.ico-bni-call-new{
+	background-image: url('assets/images/ico-bni-call-new.svg');
+}
+.ico-bni-e-form-new{
+	background-image: url('assets/images/ico-bni-e-form-new.svg');
+}
+.ico-bni-internet-banking-new{
+	background-image: url('assets/images/ico-bni-internet-banking-new.svg');
+}
+.ico-bni-lokasi-atm-new{
+	background-image: url('assets/images/ico-bni-lokasi-atm-new.svg');
+}
+.ico-bni-tapcash-go-new{
+	background-image: url('assets/images/ico-bni-tapcash-go-new.svg');
+}
+.ico-tapcash-white{
+    background-image: url('assets/images/ico-tapcash-white.png');
+}
+
+.ico-bni-tapcash-in{
+    background-image: url('assets/images/tapcash_in.svg');
+}
+
+.ico-bni-tapcash-out{
+    background-image: url('assets/images/tapcash_out.svg');
+}
+.ico-bni-tapcash-refund{
+    background-image: url('assets/images/tapcash-refund.svg');
+}
+.ico-bni-tapcash-dot{
+    background-image: url('images/tapcash-dot.svg');
+}
+.ico-riwayat-tapcash-menu{
+    background-image: url('images/ico_riwayat_tapcash_menu.svg');
+}
+.ico-topup-tapcash-menu{
+    background-image: url('images/ico_topup_tapcash_menu.svg');
+}
+.ico-update-tapcash-menu{
+    background-image: url('images/ico_update_tapcash_menu.svg');
+}
+.ico-tapcash-inform{
+    background-image: url('images/ico-tapcash_inform.svg');
+}
+.ico-copy_tapcash{
+    background-image: url('images/copy_tapcash.svg');
+}
+.ico-faq-new{
+	background-image: url('assets/images/ico-faq-new.svg');
+}
+.ico-bni-digi{
+    background-image: url('assets/images/ico-bni-digi.png');
+}
+.ico-agen46-locator{
+	background-image: url('assets/images/ico-agen46-locator.png');
+}
+.ico-link-aja-menu{
+	background-image: url('assets/images/ico-link-aja.png');
+}
+.ico-bni-mycard{
+    background-image: url('assets/images/ico-bni-mycard.svg');
+}
+.ico-sms-banking-new{
+	background-image: url('assets/images/ico-sms-banking-new.svg');
+}
+
+.ico-face-id-active {
+    background-image: url('assets/images/ico-biometric-active.gif');
+}
+
+.ico-digi-loan-kk {
+    background-image: url('assets/images/icon-cc-digital-loan.png');
+}
+
+.ico-fingerprint{
+    background-image: url('assets/images/ico-biometric-non-active.gif');
+}
+
+.ico-fingerprint-active{
+    background-image: url('assets/images/ico-fingerprint-active.svg');
+}
+
+.ico-fingerprint-green{
+    background-image: url('assets/images/ico-fingerprint-green.svg');
+}
+
+.ico-biometric-green{
+    background-image: url('assets/images/ico-biometric-green.gif');
+}
+
+.ico-fingerprint-red{
+    background-image: url('assets/images/ico-biometric-red.gif');
+}
+
+.ico-save-id{
+    background-image: url('assets/images/ico-save-id.svg');
+}
+
+.ico-batal-id{
+    background-image: url('assets/images/ico-batal-id.svg');
+}
+
+.ico-bni-life{
+    background-image: url('assets/images/ico-bni-life.png');
+}
+
+/* Icon Home */
+.ico-rekeningku {
+    background-image: url('assets/images/ico-rekeningku.svg');
+}
+
+.ico-transfer {
+    background-image: url('assets/images/ico-transfer.svg');
+}
+
+.ico-pembayaran {
+    background-image: url('assets/images/ico-pembayaran.svg');
+}
+
+.ico-pembelian {
+    background-image: url('assets/images/ico-pembelian.svg');
+}
+
+.ico-investasi {
+    background-image: url('assets/images/ico-investasi.svg');
+}
+
+.ico-produk-jasa {
+    background-image: url('assets/images/ico-produk-jasa.svg');
+}
+
+.ico-rekeningku-new {
+    background-image: url('assets/images/ico-rekeningku-new.svg');
+}
+
+.ico-managecard-new {
+    background-image: url('assets/images/list-managecard.svg');
+}
+
+.ico-managecard-new2 {
+    background-image: url('assets/images/managecard_svg_primary.png');
+}
+
+.ico-transaksiterbuku-new {
+    background-image: url('assets/images/card-list.svg');
+}
+
+.ico-informasitagihan-new {
+    background-image: url('assets/images/list-tagihan.svg');
+}
+
+.ico-bill-payment {
+    background-image: url('assets/images/bill-payment-mycard.png');
+}
+
+.ico-ubahcicilan {
+    background-image: url('assets/images/ubah-cicilan.png');
+}
+
+.ico-increase-limit {
+    background-image: url('assets/images/increase-limit.png');
+}
+
+.ico-dana-tunai {
+    background-image: url('assets/images/dana-tunai.png');
+}
+
+.ico-perisai-plus {
+    background-image: url('assets/images/perisai-plus.png');
+}
+
+.ico-product-mycard {
+    background-image: url('assets/images/product-myCard.png');
+}
+
+.ico-transfer-new {
+    background-image: url('assets/images/ico-transfer-new.svg');
+}
+
+.ico-pembayaran-new {
+    background-image: url('assets/images/ico-pembayaran-new.svg');
+}
+
+.ico-pembelian-new {
+    background-image: url('assets/images/ico-pembelian-new.svg');
+}
+
+.ico-investasi-new {
+    width:2.5rem; 
+    height:2.5rem;
+    background-image: url('assets/images/ico-fxmobile-new.png');
+}
+
+.ico-produk-jasa-new {
+    background-image: url('assets/images/ico-produk-jasa-new.svg');
+}
+
+.ico-kartukredit-new {
+    background-image: url('assets/images/ico-kartukredit.png');
+}
+/* End Icon Home */
+.ico-home-green {
+    background-image: url('assets/images/ico-home.svg');
+}
+.ico-home-blue {
+    background-image: url('assets/images/ico-home-new.svg');
+}
+.ico-home-orange {
+    background-image: url('assets/images/ico-home.svg');
+}
+
+.ico-home-white {
+    background-image: url('assets/images/ico-home-white.svg');
+}
+
+.ico-administrasi-green {
+    background-image: url('assets/images/ico-administrasi-green.svg');
+}
+
+.ico-administrasi-white {
+    background-image: url('assets/images/ico-administrasi.svg');
+}
+
+.ico-yap {
+    background-image: url('assets/images/ico-yap.svg');
+}
+
+.ico-promo-green {
+    background-image: url('assets/images/ico-promo-green.svg');
+}
+.ico-notification-green{
+	background-image: url('assets/images/ico-notification-green.svg');
+}
+
+.ico-promo-white {
+    background-image: url('assets/images/ico-promo.svg');
+}
+
+.ico-promo-orange {
+    background-image: url('assets/images/ico-promo-orange.svg');
+}
+
+.ico-promo-mycard {
+    background-image: url('assets/images/promo_svg_primary.png');
+}
+
+.ico-kategori-mycard {
+    background-image: url('assets/images/category_svg_primary.png');
+}
+
+.ico-city-mycard {
+    background-image: url('assets/images/city_svg_primary.png');
+}
+
+.ico-keluar-green {
+    background-image: url('assets/images/ico-keluar-green.svg');
+}
+
+.ico-keluar-white {
+    background-image: url('assets/images/ico-keluar.svg');
+}
+
+.ico-tabungan-giro {
+    background-image: url('assets/images/ico-tabungan-giro.svg');
+}
+
+.ico-deposito {
+    background-image: url('assets/images/ico-deposito.svg');
+}
+
+.ico-pinjaman {
+    background-image: url('assets/images/ico-pinjaman.svg');
+}
+
+.ico-dplk {
+    background-image: url('assets/images/ico-dplk.svg');
+}
+
+.ico-investasi2 {
+    background-image: url('assets/images/ico-investasi2.svg');
+}
+.ico-investasi-2-new{
+	background-image: url('assets/images/ico-investasi-2-new.svg');
+}
+
+.ico-pembukuan-rekening {
+    background-image: url('assets/images/ico-pembukuan-rekening.svg');
+}
+
+.ico-antar-bni {
+    background-image: url('assets/images/ico-antar-bni.svg');
+}
+
+.ico-antar-bank {
+    background-image: url('assets/images/ico-antar-bank.svg');
+}
+
+.ico-kliring {
+    background-image: url('assets/images/ico-kliring.svg');
+}
+
+.ico-dana-pensiun {
+    background-image: url('assets/images/ico-dana-pensiun.svg');
+}
+
+.ico-rekening-sendiri {
+    background-image: url('assets/images/ico-rekening-sendiri.svg');
+}
+
+.ico-virtual-account {
+    background-image: url('assets/images/ico-virtual-account.svg');
+}
+
+.ico-success {
+    background-image: url('assets/images/ico-success.svg');
+}
+
+.ico-success-png {
+    background-image: url('assets/images/ico-circle-green.png');
+}
+
+.ico-emergency-png {
+    background-image : url('assets/images/ico-emergency-receipt.png');
+}
+.ico-success-new {
+    background-image: url('assets/images/ico-circle-green.png');
+}
+.ico-gagal-new {
+    background-image: url('assets/images/ico-gagal-new.png');
+}
+.ico-success-dc {
+    background-image: url('assets/images/ico_success_new.svg');
+}
+
+.ico-life-goals {
+    background-image: url('assets/images/life_goals.svg');
+}
+.ico-on-proggress {
+    background-image: url('assets/images/ico-on-proggress.svg');
+}
+.ico-close {
+    background-image: url('assets/images/ico-close.svg');
+}
+
+.ico-eye {
+    background-image: url('assets/images/ico-eye.svg');
+}
+
+.ico-eye-new {
+    background-image: url('assets/images/WelcomePage/show_eye.svg');
+}
+
+.ico-eye-hide-new {
+    background-image: url('assets/images/WelcomePage/hide_eye.svg');
+}
+
+.ico-list {
+    background-image: url('assets/images/ico-list.svg');
+}
+.ico-list-orange{
+	background-image: url('assets/images/ico-list-orange.svg');
+}
+
+.ico-link-aja {
+    background-image: url('assets/images/ico-link-aja.svg');
+}
+.ico-link-aja-new {
+    background-image: url('assets/images/ico-link-aja-new.svg');
+}
+.ico-bni-mycard {
+    background-image: url('assets/images/ico-bni-mycard.svg');
+}
+
+.ico-save-orange {
+    background-image: url('assets/images/ico-save.svg');
+
+}
+
+.ico-share-orange {
+    background-image: url('assets/images/ico-share.svg');
+    
+}
+
+.ico-scan-orange {
+    background-image: url('assets/images/ico-scan.svg');
+    
+}
+
+.ico-scan-white {
+    background-image: url('assets/images/ico-scan-white.svg');
+}
+
+.ico-image-white {
+    background-image: url('assets/images/ico-image-white.svg');   
+}
+
+.ico-flash-orange {
+    background-image: url('assets/images/ico-flash-orange.svg');   
+}
+.ico-flash-white {
+    background-image: url('assets/images/ico-flash-white.svg');
+}
+.ico-image-orange {
+    background-image: url('assets/images/ico-image-orange.svg');   
+}
+.ico-image-white {
+    background-image: url('assets/images/ico-image-white.svg');
+}
+
+.ico-ellipse-grey {
+    background-image: url('assets/images/ico-ellipse-grey.svg');   
+}
+
+.ico-email-registration{
+    background-image: url('assets/images/email-registration.svg');   
+}
+.ico-verifikasi-otp{
+    background-image: url('assets/images/otp_debit_control.svg');
+}
+/* Pembayaran */
+
+.ico-pembayaran-asuransi-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_asuransi.png');   
+}
+
+.ico-pembayaran-biaya-pendidikan-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_biaya_pendidikan.png');  
+}
+
+.ico-pembayaran-bpjs-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_bpjs.png');   
+}
+
+.ico-pembayaran-internet-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_internet.png');   
+}
+
+.ico-pembayaran-kredit-bank-lain-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_kredit_banklain.png');  
+}
+
+.ico-pembayaran-kredit-bni-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_kredit_BNI.png');   
+}
+
+.ico-pembayaran-listrik-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_listrik.png');   
+}
+
+.ico-pembayaran-mpng2-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_MPNG2.png');   
+}
+
+.ico-pembayaran-multifinance-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/Icon_pembayaran_multifinance.png');   
+}
+
+.ico-pembayaran-pajak-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_pajak.png');   
+}
+
+.ico-pembayaran-pascabayar-telepon-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_pascabayartelepon.png');   
+}
+
+.ico-pembayaran-pdam-ipl-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_PDAM_IPL.png');   
+}
+
+.ico-pembayaran-pegadaian-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_pegadaian.png');   
+}
+
+.ico-pembayaran-pgn-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_pgn.png');   
+}
+
+.ico-pembayaran-pinjaman-personal-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_pinjaman_personal.png');   
+}
+
+.ico-pembayaran-samsat-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_SAMSAT.png');   
+}
+
+.ico-pembayaran-tiket-kai-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_tiket_KAI.png');   
+}
+
+.ico-pembayaran-tiket-penerbangan-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_tiket_penerbangan.png');   
+}
+
+.ico-pembayaran-tki-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_TKI.png');   
+}
+
+.ico-pembayaran-tv-berlangganan-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_tv_berlanggana.png');   
+}
+
+.ico-pembayaran-zis-qurban-orange {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_ZIS_Qurban.png');   
+}
+
+.ico-pembayaran-asuransi-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_asuransi-new.png');   
+}
+
+.ico-pembayaran-biaya-pendidikan-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_biaya_pendidikan-new.png');  
+}
+
+.ico-pembayaran-bpjs-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_bpjs-new.png');   
+}
+
+.ico-pembayaran-internet-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_internet-new.png');   
+}
+
+.ico-pembayaran-kredit-bank-lain-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_kredit_banklain-new.png');  
+}
+
+.ico-pembayaran-kredit-bni-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_kredit_BNI-new.png');   
+}
+
+.ico-pembayaran-listrik-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_listrik-new.png');   
+}
+
+.ico-pembayaran-mpng2-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_MPNG2-new.png');   
+}
+
+.ico-pembayaran-multifinance-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/Icon_pembayaran_multifinance-new.png');   
+}
+
+.ico-pembayaran-pajak-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_pajak-new.png');   
+}
+
+.ico-pembayaran-pascabayar-telepon-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_pascabayartelepon-new.png');   
+}
+
+.ico-pembayaran-pdam-ipl-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_PDAM_IPL-new.png');   
+}
+
+.ico-pembayaran-pegadaian-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/ico-pembayaran-pegadaian-orange-new.png');   
+}
+
+.ico-pembayaran-pgn-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_PGN-new.png');
+}
+
+.ico-pembayaran-pinjaman-personal-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_pinjaman_personal-new.png');   
+}
+
+.ico-pembayaran-samsat-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_SAMSAT-new.png');   
+}
+
+.ico-pembayaran-tiket-kai-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_tiket_KAI-new.png');   
+}
+
+.ico-pembayaran-tiket-penerbangan-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_tiket_penerbangan-new.png');   
+}
+
+.ico-pembayaran-tki-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_TKI-new.png');   
+}
+
+.ico-pembayaran-tv-berlangganan-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_tv_berlanggana-new.png');   
+}
+
+.ico-pembayaran-zis-qurban-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_ZIS_Qurban-new.png');   
+}
+.ico-pembayaran-bpjs-kesehatan-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/bpjs_kesehatan-new.png');   
+}
+
+.ico-pembayaran-bpjs-ketenagakerjaan-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/bpjs_ketenagakerjaan-new.png');   
+}
+.ico-pembayaran-tabungan-haji-orange-new {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/tabungan-haji-new.png');   
+}
+.ico-pembayaran-kepelabuhan {
+    background-image: url('assets/images/AssetTask1/Icon_Pembayaran/icon_pembayaran_kepelabuhan.png');   
+}
+/* Administrasi */
+.ico-administrasi-hapus-favorit-red {
+    background-image: url('assets/images/AssetTask1/icon_administrasi/icon_administrasi_hapusfavorit.png');   
+}
+
+.ico-administrasi-ubah-mpin-red {
+    background-image: url('assets/images/AssetTask1/icon_administrasi/icon_administrasi_ubahMPIN.png');   
+}
+
+.ico-administrasi-ubah-password-red {
+    background-image: url('assets/images/AssetTask1/icon_administrasi/icon_administrasi_ubahpassword.png');   
+}
+
+.ico-administrasi-blokir-kartu-red {
+    background-image: url('assets/images/AssetTask1/icon_administrasi/icon_adminstrasi_blokirkartu.png');   
+}
+
+.ico-administrasi-hapus-favorit-red-new {
+    background-image: url('assets/images/AssetTask1/icon_administrasi/icon_administrasi_hapusfavorit-new.png');   
+}
+
+.ico-administrasi-ubah-mpin-red-new {
+    background-image: url('assets/images/AssetTask1/icon_administrasi/icon_administrasi_ubahMPIN-new.png');   
+}
+
+.ico-administrasi-ubah-password-red-new {
+    background-image: url('assets/images/AssetTask1/icon_administrasi/icon_administrasi_ubahpassword-new.png');   
+}
+
+.ico-administrasi-blokir-kartu-red-new {
+    background-image: url('assets/images/AssetTask1/icon_administrasi/icon_adminstrasi_blokirkartu-news.png');
+}
+
+.ico-administrasi-setting-login {
+    background-image: url('assets/images/AssetTask1/icon_administrasi/ico-setting-login.png');
+}
+
+.ico-administrasi-ubahPIN-new {
+    background-image: url('assets/images/AssetTask1/icon_administrasi/Ubah_pin_kartu_debit.png');
+}
+
+/* end Administrasi */
+.ico-notifikasi-white {
+    background-image: url('assets/images/AssetTask1/icon_menu_footer/icon_menu_notifikasi.png');   
+}
+
+.ico-notifikasi-green {
+    background-image: url('assets/images/AssetTask1/icon_menu_footer/icon_menu_notifikasi_selected.svg');
+}
+
+.ico-link-aja-qr {
+    background-image: url('assets/images/AssetTask1/icon_menu_footer/icon_menu_linkaja.png');   
+}
+
+.ico-mobileTunai-white {
+    background-image: url('assets/images/AssetTask1/icon_menu_footer/icon_menu_mobileTunai.png');
+}
+.ico-mobileTunai-green {
+    background-image: url('assets/images/AssetTask1/icon_menu_footer/icon_menu_mobileTunai_selected.png');
+}
+/* Rekeningku */
+
+.ico-pinjaman-orange {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/pinjaman.png');   
+}
+
+.ico-deposito-orange {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/deposito.png');   
+}
+
+.ico-investasi-orange {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/investasi.png');   
+}
+
+.ico-pembukaan-rekening-orange {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/pembukaan.png');   
+}
+
+.ico-bni-simponi-orange {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/bni-simponi.png');
+}
+
+.ico-tabungan-orange {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/tabungan.png');
+}
+.ico-pinjaman-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/pinjaman-new.png');   
+}
+
+.ico-deposito-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/deposito-new.png');   
+}
+
+.ico-investasi-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/investasi-new.png');   
+}
+
+.ico-pembukaan-rekening-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/pembukaan-new.png');   
+}
+
+.ico-bni-simponi-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/bni-simponi-new.png');
+}
+
+.ico-tabungan-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_rekeningku/tabungan-new.png');
+}
+/* Transfer */
+
+.ico-antar-bni-orange {
+    background-image: url('assets/images/AssetTask1/icon_transfer/antar-bni.png');
+}
+
+
+.ico-dana-pensiun-orange {
+    background-image: url('assets/images/AssetTask1/icon_transfer/dana-pensiun.png');
+}
+
+
+.ico-kliring-orange {
+    background-image: url('assets/images/AssetTask1/icon_transfer/kliring.png');
+}
+
+
+.ico-online-antar-bank-orange {
+    background-image: url('assets/images/AssetTask1/icon_transfer/online-antar-bank.png');
+}
+
+
+.ico-rekening-sendiri-orange {
+    background-image: url('assets/images/AssetTask1/icon_transfer/rekening-sendiri.png');
+}
+
+
+.ico-va-orange {
+    background-image: url('assets/images/AssetTask1/icon_transfer/va.png');
+}
+
+.ico-bksp {
+    background-image: url('assets/images/ico-bksp.png');
+}
+
+.ico-antar-bni-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_transfer/antar-bni-new.png');
+}
+
+
+.ico-dana-pensiun-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_transfer/dana-pensiun-new.png');
+}
+
+
+.ico-kliring-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_transfer/kliring-new.png');
+}
+
+
+.ico-online-antar-bank-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_transfer/online-antar-bank-new.png');
+}
+
+
+.ico-rekening-sendiri-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_transfer/rekening-sendiri-new.png');
+}
+
+
+.ico-va-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_transfer/va-new.png');
+}
+
+.ico-bksp-new {
+    background-image: url('assets/images/ico-bksp.svg');
+}
+.ico-otr-orange {
+    background-image: url('assets/images/AssetTask1/icon_transfer/otr.png');
+}
+.ico-otr-multcure {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_multcure.svg');
+}
+.ico-otr-hardcure {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_hardcure.svg');
+}
+.ico-otr-track {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_track.svg');
+}
+.ico-otr-regst {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_regist.svg');
+}
+.ico-otr-inr {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_inr.svg');
+}
+.ico-otr-php {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_php.svg');
+}
+.ico-otr-aud {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_aud.svg');
+}
+.ico-otr-eur {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_eur.svg');
+}
+.ico-otr-gbp {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_gbp.svg');
+}
+.ico-otr-hkd {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_hkd.svg');
+}
+.ico-otr-jpy {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_jpy.svg');
+}
+.ico-otr-nzd {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_nzd.svg');
+}
+.ico-otr-sgd {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_sgd.svg');
+}
+.ico-otr-usd {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_usd.svg');
+}
+.ico-otr-idr {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_idr.svg');
+}
+.ico-otr-rdot {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_greendot.svg');
+}
+.ico-otr-ddot {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_graydot.svg');
+}
+.ico-otr-up {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_up.svg');
+}
+.ico-otr-down {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_down.svg');
+}
+.ico-otr-chf {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_chf.svg');
+}
+.ico-otr-cad {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_cad.svg');
+}
+.ico-otr-myr {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_myr.svg');
+}
+.ico-otr-sar {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_sar.svg');
+}
+.ico-otr-thb {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_thb.svg');
+}
+.ico-otr-krw {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_krw.svg');
+}
+
+.ico-otr-cny {
+    background-image: url('assets/images/AssetTask1/icon_otr_newestes/bni_otr_cny.svg');
+}
+
+
+/* Pembelian */
+
+.ico-gopay-orange {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/go-pay.png');
+    width: 90%;
+}
+
+.ico-link-aja-orange {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/link-aja.png');
+    width: 90%;
+}
+
+.ico-paket-data-orange {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/paket-data.png');
+}
+
+.ico-tapcash-orange {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/tapcash.png');
+    width: 90%;
+}
+
+.ico-token-listrik-orange {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/token-listrik.png');
+}
+
+.ico-topup-agen-penerbangan-orange {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/topup-agen-penerbangan.png');
+}
+
+.ico-vocer-prabayar-orange {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/vocer-prabayar.png');
+}
+
+.ico-vocer-tv-orange {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/vocer-tv.png');
+}
+
+.ico-gopay-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/go-pay-new.png');
+    width: 90%;
+}
+
+.ico-link-aja-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/link-aja-new.png');
+    width: 90%;
+}
+
+.ico-paket-data-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/paket-data-new.png');
+}
+
+.ico-tapcash-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/tapcash-new.png');
+    width: 90%;
+}
+
+.ico-token-listrik-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/token-listrik-new.png');
+}
+
+.ico-topup-agen-penerbangan-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/topup-agen-penerbangan-new.png');
+}
+
+.ico-vocer-prabayar-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/vocer-prabayar-new.png');
+}
+
+.ico-bni-life {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/bni-life.jpeg');
+}
+
+.ico-bni-iSaku {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/bni-iSaku.png');
+    width: 90%;
+}
+.ico-bni-ovo {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/bni-ovo.png');
+}
+.ico-vocer-tv-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_pembelian/vocer-tv-new.png');
+}
+/* SBN Retail */
+.ico-profil-investor-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_sbn_retail/ico-profil-investor-orange-new.png');
+    width: 90%;
+}
+
+.ico-rekening-dana-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_sbn_retail/ico-rekening-dana-orange-new.png');
+    width: 90%;
+}
+
+.ico-rekening-surat-berharga-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_sbn_retail/ico-rekening-surat-berharga-orange-new.png');
+}
+
+.ico-pemesanan-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_sbn_retail/ico-pemesanan-orange-new.png');
+    width: 90%;
+}
+
+.ico-pembayaran-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_sbn_retail/ico-pembayaran-orange-new.png');
+}
+
+.ico-redemption-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_sbn_retail/ico-redemption-orange-new.png');
+}
+
+.ico-informasi-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_sbn_retail/ico-informasi-orange-new.png');
+}
+
+/* Investasi */
+
+.ico-sbn-retail-orange {
+    background-image: url('assets/images/AssetTask1/icon_investasi/investasi.png');
+}
+.ico-reksadana-orange-1-new {
+    background-image: url('assets/images/AssetTask1/icon_investasi/reksadana-new.png');
+}
+.ico-sbn-retail-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_investasi/investasi-new.png');
+}
+.ico-fixed-income-orange {
+    background-image: url('assets/images/AssetTask1/icon_investasi/fixed-income.png');
+}
+.ico-obligasi-sekunder-orange {
+    background-image: url('assets/images/AssetTask1/icon_investasi/obligasi-sekunder.png');
+}
+/* Digibond / Fixed Income / Obligasi */
+.ico-informasi-harga-digibond {
+    background-image: url('assets/images/AssetTask1/icon_fixed_income/informasi-harga.png');
+}
+.ico-portofolio-digibond {
+    background-image: url('assets/images/AssetTask1/icon_fixed_income/portofolio.png');
+}
+.ico-transaksi-obligasi-digibond {
+    background-image: url('assets/images/AssetTask1/icon_fixed_income/transaksi-obligasi.png');
+}
+
+/* Rekening-dana */
+
+.ico-daftar-new {
+    background-image: url('assets/images/AssetTask1/icon_rekening_dana/ico-daftar-new.png');
+}
+.ico-hapus-new {
+    background-image: url('assets/images/AssetTask1/icon_rekening_dana/ico-hapus-new.png');
+}
+/* Produk dan Jasa Lainnya */
+
+.ico-aktivasi-luar-negri-orange {
+    background-image: url('assets/images/AssetTask1/icon_layanan/aktivasi-luar-negri.png');
+}
+
+.ico-bni-debit-orange {
+    background-image: url('assets/images/AssetTask1/icon_layanan/bni-debit.png');
+}
+
+.ico-bukti-transaksi-orange {
+    background-image: url('assets/images/AssetTask1/icon_layanan/bukti-transaksi.png');
+}
+
+.ico-pencairan-deposito-orange {
+    background-image: url('assets/images/AssetTask1/icon_layanan/pencairan-deposito.png');
+}
+
+.ico-pertamina-orange {
+    background-image: url('assets/images/AssetTask1/icon_layanan/pertamina.png');
+}
+
+.ico-reksadana-orange {
+    background-image: url('assets/images/AssetTask1/icon_layanan/reksa-dana.png');
+}
+
+.ico-ubah-pin-orange {
+    background-image: url('assets/images/AssetTask1/icon_layanan/ubah-pin.png');
+}
+
+.ico-round-check-green {
+    background-image: url('assets/images/ico-round-check.svg');
+}
+
+.ico-aktivasi-luar-negri-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_layanan/aktivasi-luar-negri-new.png');
+}
+
+.ico-bni-debit-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_layanan/bni-debit-new.png');
+}
+
+.ico-bukti-transaksi-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_layanan/bukti-transaksi-new.png');
+}
+
+.ico-pencairan-deposito-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_layanan/pencairan-deposito-new.png');
+}
+
+.ico-pertamina-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_layanan/pertamina-new.png');
+}
+
+.ico-reksadana-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_layanan/reksa-dana-new.png');
+}
+
+.ico-ubah-pin-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_layanan/ubah-pin-new.png');
+}
+
+.ico-sms-notifikasi-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_layanan/sms-notifikasi-new.png');
+}
+
+.ico-round-check-green-new {
+    background-image: url('assets/images/ico-round-check-new.svg');
+}
+.ico-mobile-tunai{
+	background-image: url('assets/images/AssetTask1/icon_mobile_tunai/mobiletunai.png');
+}
+
+.ico-ScanQR {
+    background-image: url('assets/images/ico-ScanQR.svg');	
+}
+
+.ico-QRIS {
+    background-image: url('assets/images/ico-QRIS.svg');
+}
+
+.ico-success-id {
+    background-image: url('assets/images/ico-success-id.svg');
+}
+
+.ico-layanan-perolehan-referral-orange-new {
+    background-image: url('assets/images/AssetTask1/icon_layanan/referral-code-new.png');
+}
+
+.ico-bi-fast-pengaturan{
+    background-image: url('assets/images/AssetTask1/icon_transfer/pengaturan-bi-fast-ico.png');
+}
+
+.ico-kartu-kredit-lokal{
+    background-image: url('assets/images/NewMenu/ico-kartu-kredit-lokal.svg');
+}
+
+.ico-on-proses{
+    background-image: url('assets/images/icon_on_proses.jpeg');
+}
+.ico-blokir-saldo {
+    background-image: url('assets/images/AssetTask1/icon_layanan/bni-blokir-saldo.png');
+}
+
+.ico-digital-invoices {
+    background-image: url('assets/images/NewMenu/ico-digital-invoice.svg')
+}
+
+.ico-change-device {
+    background-image: url('assets/images/NewMenu/changeDevice.svg');
+}
+
+.ico-data-registration {
+      background-image: url('assets/images/NewMenu/data-registration.svg');
+  }
+.ico-success-registration {
+    background-image: url('assets/images/NewMenu/success-registration.svg');
+}
+/*.ico-signal-indicator {
+    background-image: url('assets/images/AssetTask1/wifi.svg');
+    filter: invert(35%) sepia(85%) saturate(438%) hue-rotate(70deg) brightness(103%) contrast(97%);
+}
+.signal-indicator-index {
+    width: 1.9em;
+    height: 1.8em;
+    display: inline-block;
+    text-align: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right:5px !important;
+    margin-top: 3px;
+}
+
+.signal-indicator-menu {
+    width: 1.9em;
+    height: 2em;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-right: 28px !important;
+}
+
+.signal-indicator-welcome {
+    width: 2em;
+    height: 2em;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-top: -30px !important;
+}
+
+.signal-indicator-base {
+    width: 1em;
+    height: 1.5em;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+
+.signal-indicator-home {
+    margin-right:18px !important;
+    margin-top: 3px !important; 
+}
+
+.signal-indicator-notif {
+    margin-right:13px !important;
+    margin-top: -5px;
+}
+.signal-indicator-homeMT {
+    margin-right:22px !important;
+    margin-top: 1px !important;
+}*/
+.ico-lena{
+    background-image: url('assets/images/AssetTask1/icon_lena/new-ico-tanya-bni.svg');
+}
+
+.ico-back{
+	background-image: url('assets/images/back.png');
+}
+	
+.ico-clone {
+    background-image: url('assets/images/ico-clone.svg');
+    width: 10px;
+    height: 10px;
+}
+
+.bg-login{
+    background-image: url('assets/images/WelcomePage/bg_screen.svg');
+        background-size: cover;
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+}
+
+/* NOTE : Start New Icon BNI  */
+
+
+    .bni-ico-bpjs-menufav{
+        /* width: 7em;
+        height: 7em; */
+        width: 3.2em;
+        height: 3.2em;
+        min-width: 3.2rem;
+        max-height: 3.2rem;
+        display: inline-block;
+        text-align: right;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .bni-ico-pegadaian-menufav{
+        /* width: 6em;
+        height: 6em; */
+        width: 3.2em;
+        height: 3.2em;
+        min-width: 3.2rem;
+        max-height: 3.2rem;
+        display: inline-block;
+        text-align: right;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+
+    .ico-add-menu{
+        background-image: url('assets/images/ico-add-menu.png');
+        width: 20px;
+        height: 20px;
+        margin: 0 !important;
+    }
+
+    .ico-remove-menu{
+        background-image: url('assets/images/ico-remove-menu.png');
+        width: 20px;
+        height: 20px;
+        margin: 0 !important;
+    }
+
+    .ico-copy{
+        background-image: url('assets/images/ico-copy.png');
+        width: 20px;
+        height: 20px;
+        margin: 0px !important;
+        color: white;
+    }
+
+    .ico-copy-green{
+        background-image: url('assets/images/ico-copy-green.svg');
+        width: 20px;
+        height: 20px;
+        margin: 0px !important;     
+    }
+
+    .ico-warn-orange{
+        background-image: url('assets/images/ico-warn-orange.svg');
+        background-size: 20px 20px;
+        width: 20px;
+        height: 20px;
+        margin: 0px !important;     
+    }
+
+    .ico-arrow-right-grey{
+        background-image: url('assets/images/arrow-right-grey.png');
+        width: 7px !important;
+        height: 14px !important;
+    }
+
+    .ico-camera{
+        background-image: url('assets/images/NewMenu/ico-camera.svg');
+        width: 23px;
+        height: 20px;
+        margin: 0 !important;
+    }
+
+    .ico-galery{
+        background-image: url('assets/images/NewMenu/ico-galery.svg');
+        width: 28px;
+        height: 20px;
+        margin: 0 !important;
+    }
+
+    .ico-menu-lengkap{
+        background-image: url('assets/images/NewMenu/ico-menu-lengkap.svg');
+    }
+
+    .ico-notifikasi-new-white {
+        background-image: url('assets/images/NewMenu/notifications.svg');   
+        width: 2.5em;
+        height: 2.5em;
+    }
+
+    .ico-logout-white {
+        background-image: url('assets/images/NewMenu/exit.svg');
+        width: 2.5em;
+        height: 2.5em;   
+    }
+
+    .ico-menu-home-grey {
+        background-image: url('assets/images/NewMenu/menu-home-grey.svg');
+        width: 25px;
+        height: 25px;
+    }
+
+    .ico-menu-home-green {
+        background-image: url('assets/images/ico-home.svg');
+        width: 25px;
+        height: 25px;
+    }
+
+    .ico-ScanQRNew {
+        background-image: url('assets/images/NewMenu/QRIS.svg');
+    }
+
+    .ico-menu-riwayat-grey {
+        background-image: url('assets/images/NewMenu/menu-riwayat-grey.svg');
+        width: 25px;
+        height: 25px;
+    }
+
+    .ico-menu-riwayat-green {
+        background-image: url('assets/images/NewMenu/menu-riwayat-grey.svg');
+        width: 25px;
+        height: 25px;
+    }
+
+    .ico-menu-favorite-grey {
+        background-image: url('assets/images/NewMenu/menu-favorite-grey.svg');
+        width: 25px;
+        height: 25px;
+    }
+
+    .ico-menu-favorite-green {
+        background-image: url('assets/images/NewMenu/menu-favorite-green.svg');
+        width: 25px;
+        height: 25px;
+    }
+
+    .ico-menu-setting-grey {
+        background-image: url('assets/images/NewMenu/menu-setting-grey.svg');
+        width: 25px;
+        height: 25px;
+    }
+
+    .ico-menu-setting-green {
+        background-image: url('assets/images/NewMenu/menu-setting-green.svg');
+        width: 25px;
+        height: 25px;
+    }
+
+    .ico-close-button-circle{
+        background-image: url('assets/images/NewMenu/ico-close-button-circle.svg');
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+        text-align: right;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .ico-menu-transfer {
+        background-image: url('assets/images/NewMenu/ico-menu-transfer.svg');   
+    }
+
+    .ico-menu-e-wallet {
+        background-image: url('assets/images/NewMenu/ico-menu-e-wallet.svg');   
+        width: 3.5em;
+        height: 3.5em;
+        margin-right: -5px;
+        margin-bottom: 12px;
+    }
+
+    .ico-menu-pembayaran {
+        background-image: url('assets/images/NewMenu/ico-menu-pembayaran.svg');   
+    }
+
+    .ico-menu-pembelian {
+        background-image: url('assets/images/NewMenu/ico-menu-pembelian.svg');   
+    }
+
+    .ico-menu-pulsa {
+        background-image: url('assets/images/NewMenu/ico-menu-pulsa.svg');   
+    }
+
+    .ico-menu-listrik {
+        background-image: url('assets/images/NewMenu/ico-menu-listrik.svg');   
+    }
+
+    .ico-delete-favorite {
+        background-image: url('assets/images/NewMenu/ico-delete-favorite.svg');   
+        width: 24px;
+        height: 24px;
+    }
+
+    /* NOTE : Start Produk Jasa Lainnya */
+    .ico-menu-life-goals {
+        background-image: url('assets/images/NewMenu/ico-menu-life-goals.svg');   
+    }
+
+    .ico-menu-digital-loan {
+        background-image: url('assets/images/NewMenu/ico-menu-digital-loan.svg');   
+    }
+
+    .ico-menu-digital-loan-red {
+        background-image: url('assets/images/fleksinotif.png');
+    }
+
+    .ico-menu-my-creditcard {
+        background-image: url('assets/images/NewMenu/ico-menu-my-creditcard.svg');   
+    }
+
+    .ico-menu-debit-online {
+        background-image: url('assets/images/NewMenu/ico-menu-debit-online.svg');   
+    }
+
+    .ico-menu-mobile-tunai {
+        background-image: url('assets/images/NewMenu/ico-menu-mobile-tunai.svg');   
+    }
+
+    .ico-menu-dikado {
+        background-image: url('assets/images/NewMenu/ico-menu-dikado.svg');   
+    }
+
+    .ico-menu-auto-debit {
+        background-image: url('assets/images/NewMenu/ico-menu-autodebit.svg');   
+    }
+
+    .ico-menu-patungan {
+        background-image: url('assets/images/NewMenu/ico-menu-patungan.svg');   
+    }
+
+    .ico-menu-rekeningku {
+        background-image: url('assets/images/NewMenu/ico-menu-rekeningku.svg');   
+    }
+    /* NOTE : Start Produk Jasa Lainnya */
+
+    /* NOTE : Start Rekeningku */
+    .ico-menu-tabungan-giro {
+        background-image: url('assets/images/NewMenu/ico-menu-tabungan-giro.svg');   
+        width: 3.5em;
+        height: 3.5em;
+    }
+
+    .ico-menu-pinjaman {
+        background-image: url('assets/images/NewMenu/ico-menu-pinjaman.svg');   
+    }
+
+    .ico-menu-investasi {
+        background-image: url('assets/images/NewMenu/ico-menu-investasi.svg');   
+    }
+
+    .ico-menu-pembukaan-rekening {
+        background-image: url('assets/images/NewMenu/ico-menu-pembukaan-rekening.svg');   
+    }
+
+    .ico-menu-laporan-konsolidasi {
+         background-image: url('assets/images/NewMenu/ico-menu-laporan-konsolidasi.svg');
+    }
+
+    .ico-download-laporan-konsolidasi {
+        background-image: url('assets/images/NewMenu/ico-download-laporan-konsolidasi.svg');
+    }
+
+    .ico-file-laporan-konsolidasi {
+        background-image: url('assets/images/NewMenu/ico-file-laporan-konsolidasi.svg');
+    }
+
+    /* NOTE : End Rekeningku */
+
+     /* NOTE : Start Investasi */
+     .ico-menu-sbn-retail {
+        background-image: url('assets/images/NewMenu/ico-menu-sbn-retail.svg');   
+    }
+
+    .ico-menu-reksadana {
+        background-image: url('assets/images/NewMenu/ico-menu-reksadana.svg');   
+    }
+
+    .ico-menu-deposito {
+        background-image: url('assets/images/NewMenu/ico-menu-deposito.svg');   
+    }
+
+    .ico-menu-dplk-simponi {
+        background-image: url('assets/images/NewMenu/ico-menu-dplk-simponi.svg');   
+    }
+
+    .ico-menu-pencairan-deposito {
+        background-image: url('assets/images/NewMenu/ico-menu-pencairan-deposito.svg');   
+    }
+
+    .ico-menu-portfolio-investasi {
+        background-image: url('assets/images/NewMenu/ico-menu-portfolio-investasi.svg');   
+    }
+    /* NOTE : End Investasi */
+
+    /* NOTE : Start Pembelian */
+    .ico-menu-paket-data {
+        background-image: url('assets/images/NewMenu/ico-menu-paket-data.svg');   
+    }
+
+    .ico-menu-voucher-tv-berlangganan {
+        background-image: url('assets/images/NewMenu/ico-menu-voucher-tv-berlangganan.svg');   
+    }
+
+    .ico-menu-top-up-agen-penerbangan {
+        background-image: url('assets/images/NewMenu/ico-menu-top-up-agen-penerbangan.svg');   
+    }
+    /* NOTE : End Pembelian */
+
+    /* NOTE : Start Transfer */
+    .ico-menu-antar-bni {
+        background-image: url('assets/images/NewMenu/ico-menu-antar-bni.svg');   
+    }
+
+    .ico-menu-online-antar-bank {
+        background-image: url('assets/images/NewMenu/ico-menu-online-antar-bank.svg');   
+    }
+
+    .ico-menu-online-antar-bank-merge {
+        background-image: url('assets/images/NewMenu/ico-menu-online-antar-bank-merge.svg');
+    }
+
+    .ico-menu-online-antar-bank-bifast {
+        background-image: url('assets/images/NewMenu/ico-bi-fast-new.png');
+        width: 4em;
+        height: 4em;
+    }
+
+    .ico-menu-dana-pensiun-bni-simponi {
+        background-image: url('assets/images/NewMenu/ico-menu-dana-pensiun-bni-simponi.svg');   
+    }
+    
+    .ico-menu-kliring {
+        background-image: url('assets/images/NewMenu/ico-menu-kliring.svg');
+        width: 4em;
+        height: 4em;   
+    }
+
+    .ico-menu-rekening-sendiri {
+        background-image: url('assets/images/NewMenu/ico-menu-rekening-sendiri.svg');   
+    }
+
+    .ico-menu-virtual-account-billing {
+        background-image: url('assets/images/NewMenu/ico-menu-virtual-account-billing.svg');   
+    }
+
+    .ico-menu-otr {
+        background-image: url('assets/images/NewMenu/ico-menu-otr.svg');   
+    }
+	
+    .ico-otr-regist {
+	    background-image: url('.\images\AssetTask1\icon_otr_newestes\bni_otr_regist.svg');
+    }
+
+    .ico-hp-email {
+        background-image: url('assets/images/NewMenu/ico-hp-email.svg');
+    }
+
+    .ico-hp-email-grey {
+        background-image: url('assets/images/NewMenu/ico-hp-email-grey.svg');
+    }
+
+    .ico-rek-bank {
+        background-image: url('assets/images/NewMenu/ico-rek-bank.svg');
+    }
+
+    .ico-rek-bank-grey {
+        background-image: url('assets/images/NewMenu/ico-rek-bank-grey.svg');
+    }
+
+    .ico-disconnect-outlined {
+        background-image: url('assets/images/NewMenu/ico-disconnect-outlined.svg');
+    }
+
+    .ico-search-trf {
+        background-image: url('assets/images/NewMenu/ico-search-trf.svg');
+    }
+
+    .ico-fav-list {
+        background-image: url('assets/images/NewMenu/ico-fav-list.svg');
+        width: 50px;
+        height: 20px;
+    }
+
+    .ico-fav-star {
+        background-image: url('assets/images/ico-fav-star.png');
+        width: 50px;
+        height: 20px;
+    }
+
+    .ico-fav-star-grey {
+        background-image: url('assets/images/ico-fav-star-grey.png');
+        width: 50px;
+        height: 20px;
+    }
+
+    .ico-warning-orange {
+        background-image: url('assets/images/ico-warning-orange.svg');
+        width: 20px;
+        height: 20px;
+    }
+
+
+
+
+
+
+    /* NOTE : End Transfer */
+
+    /* NOTE : Start Pembayaran */
+    .ico-menu-kartu-kredit-bni {
+        background-image: url('assets/images/NewMenu/ico-menu-kartu-kredit-bni.svg');   
+    }
+
+    .ico-menu-kartu-kredit-bank-lain {
+        background-image: url('assets/images/NewMenu/ico-menu-kartu-kredit.svg');   
+    }
+
+    .ico-menu-pgn {
+        background-image: url('assets/images/NewMenu/ico-menu-pgn.svg');   
+    }
+
+    .ico-menu-mpng2 {
+        background-image: url('assets/images/NewMenu/ico-menu-mpng2.svg');   
+    }
+
+    .ico-menu-multifinance {
+        background-image: url('assets/images/NewMenu/ico-menu-multifinance.svg');   
+    }
+
+    .ico-menu-tv-berlangganan {
+        background-image: url('assets/images/NewMenu/ico-menu-tv-berlangganan.svg');   
+    }
+
+    .ico-menu-zis-qurban {
+        background-image: url('assets/images/NewMenu/ico-menu-zis-qurban.svg');   
+    }
+
+    .ico-menu-pdam-ipl {
+        background-image: url('assets/images/NewMenu/ico-menu-pdam-ipl.svg');   
+    }
+
+    .ico-menu-asuransi {
+        background-image: url('assets/images/NewMenu/ico-menu-asuransi.svg');   
+    }
+
+    .ico-menu-tiket-kereta-api {
+        background-image: url('assets/images/NewMenu/ico-menu-tiket-kereta-api.svg');   
+    }
+
+    .ico-menu-tiket-penerbangan {
+        background-image: url('assets/images/NewMenu/ico-menu-tiket-penerbangan.svg');   
+    }
+
+    .ico-menu-internet {
+        background-image: url('assets/images/NewMenu/ico-menu-internet.svg');   
+    }
+
+    .ico-menu-pinjaman-personal {
+        background-image: url('assets/images/NewMenu/ico-menu-pinjaman-personal.svg');   
+    }
+
+    .ico-menu-pegadaian {
+        background-image: url('assets/images/NewMenu/ico-menu-pegadaian.svg');   
+    }
+
+    .ico-menu-biaya-pendidikan {
+        background-image: url('assets/images/NewMenu/ico-menu-biaya-pendidikan.svg');   
+    }
+
+    .ico-menu-pajak {
+        background-image: url('assets/images/NewMenu/ico-menu-pajak.svg');   
+    }
+
+    .ico-menu-tki {
+        background-image: url('assets/images/NewMenu/ico-menu-tki.svg');   
+    }
+
+    .ico-menu-samsat {
+        background-image: url('assets/images/NewMenu/ico-menu-samsat.svg');   
+    }
+
+    .ico-menu-bpjs-kesehatan {
+        background-image: url('assets/images/NewMenu/ico-menu-bpjs-kesehatan.svg');   
+    }
+
+    .ico-menu-bpjs-ketenagakerjaan {
+        background-image: url('assets/images/NewMenu/ico-menu-bpjs-ketenagakerjaan.svg');   
+    }
+
+    .ico-menu-tabungan-haji {
+        background-image: url('assets/images/NewMenu/ico-menu-tabungan-haji.svg');   
+    }
+
+    .ico-menu-pertamina-lpg-3-kg {
+        background-image: url('assets/images/NewMenu/ico-menu-pertaminan-lpg-3-kg.svg');   
+    }
+
+    .ico-menu-kepelabuhan {
+        background-image: url('assets/images/NewMenu/ico-menu-kepelabuhan.svg');   
+    }
+    
+    .ico-menu-multipayment {
+        background-image: url('assets/images/NewMenu/ico_multipayment.svg');   
+    }
+    
+    /* NOTE : End Pembayaran */
+
+    /* NOTE : Start E-Wallet */
+    .ico-menu-linkaja {
+        background-image: url('assets/images/NewMenu/ico-menu-linkaja.svg');   
+    }
+
+    .ico-menu-gopay {
+        background-image: url('assets/images/NewMenu/ico-menu-gopay.svg');   
+    }
+
+    .ico-menu-tapcash {
+        background-image: url('assets/images/NewMenu/ico-menu-tapcash.svg');   
+    }
+
+    .ico-menu-i-saku {
+        background-image: url('assets/images/NewMenu/ico-menu-i-saku.svg');   
+    }
+
+    .ico-menu-dana{
+        background-image: url('assets/images/NewMenu/ico-menu-dana.svg');
+    }
+
+    .ico-menu-shopeepay {
+        background-image: url('assets/images/NewMenu/ico-menu-shopeepay.svg');
+    }
+
+    .ico-menu-ovo {
+        background-image: url('assets/images/NewMenu/ico-menu-ovo.svg');
+    }
+
+    /* NOTE : End E-Wallet */
+
+
+/*.bg-login{*/
+/*    background-image: url('assets/images/WelcomePage/bg_login.svg');*/
+/*    background-size: cover;*/
+/*    height: 100%;*/
+/*    background-position: center;*/
+/*    background-repeat: no-repeat;*/
+/*    }*/
+    
+.ico-label-bni {
+    background-image: url('assets/images/ico-label.svg');
+    padding: 0 0.5rem;
+    right: 2rem;
+    margin: 0;
+    width: 20px;
+    position: absolute;
+    height: 3em;
+    background-size: 100% 100%;
+}
+
+.ico-star {
+    background-image: url('.assets/.assets/assets/images/icons/ico-star.svg');
+    background-repeat: no-repeat;
+    background-size: 22px;
+    background-position: center;
+    width: 50px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.ico-chevron-blue {
+    background-image: url('.assets/images/icons/ico-down-blue.svg');
+}
+
+/*icon side menu*/
+
+.ico-sms-banking-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-sms-new-bni.svg');
+}
+
+.ico-agen-46-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-agen-46-new-bni.svg');
+}
+
+.ico-agen-locator-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-agen-locator-new-bni.svg');
+}
+
+.ico-bions-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-bions-new-bni.svg');
+}
+
+.ico-tripa-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-tripa-new-bni.svg');
+}
+
+.ico-bni-life-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-bni-life-new-bni.svg');
+}
+
+.ico-call-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-call-new-bni.svg');
+}
+
+.ico-kurs-new-bni{
+    background-image: url('assets/images/bniNewIcon/icon-info-kurs.svg');
+}
+
+.ico-lelang-agunan{
+     background-image: url('assets/images/bniNewIcon/ico-lelang-agunan.svg');
+}
+
+.ico-bni-amplop{
+    background-image: url('assets/images/bniNewIcon/ico-bni-AMplop.svg');
+}
+
+.ico-bni-merchant{
+     background-image: url('assets/images/bniNewIcon/ico-bni-merchant.svg');
+}
+
+.ico-credit-card-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-credit-card-new-bni.svg');
+}
+
+.ico-eform-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-eform-new-bni.svg');
+}
+
+.ico-ibank-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-ibank-new-bni.svg');
+}
+
+.ico-link-aja-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-linkAja-new-bni.svg');
+}
+
+.ico-tapcash-go-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-tapcash-go-new-bni.svg');
+}
+
+.ico-faq-new-bni{
+    background-image: url('assets/images/bniNewIcon/ico-faq-new-bni.svg');
+}
+
+.ico-bni-digigriya {
+    background-image: url('assets/images/bniNewIcon/ico-bni-digigriya.svg');
+}
+
+.filter-new-bni{
+    filter: invert(27%) sepia(26%) saturate(2672%) hue-rotate(150deg) brightness(95%) contrast(101%);
+}
+
+.filter-chevron-black-new-bni{
+    filter: invert(1) sepia(1) saturate(0) hue-rotate(200deg);
+}
+
+/*end ixon side menu*/
+.ico-round-check-orange-new {
+    background-image: url('assets/images/bniNewIcon/ico-checklis-orange.png');
+}
+
+.ico-reward-point {
+    background-image: url('assets/images/bniNewIcon/bni_reward_point.svg');
+}
+
+.ico-reload {
+    background-image: url('assets/images/bniNewIcon/bni-reload.svg');
+}
+
+.ico-menu-alfamidi {
+    background-image: url('assets/images/NewMenu/ico-menu-alfamidi.svg');   
+}
+
+.ico-menu-alfamart {
+    background-image: url('assets/images/NewMenu/ico-menu-alfamart.svg');   
+}
+
+.ico-menu-indomaret {
+    background-image: url('assets/images/NewMenu/ico-menu-indomaret.svg');   
+}
+.ico-menu-atm-bank-lain {
+    background-image: url('assets/images/NewMenu/ico-menu-atm-bank-lain.svg');   
+}
+
+.ico-menu-agen-46 {
+    background-image: url('assets/images/NewMenu/ico-menu-agen-46.svg');   
+}
+.ico-menu-alfa-express{
+    background-image: url('assets/images/NewMenu/ico-menu-alfa-express.svg');
+}
+.ico-menu-lawson{
+    background-image: url('assets/images/NewMenu/ico-menu-lawson.svg');
+}
+.ico-menu-dandan{
+    background-image: url('assets/images/NewMenu/ico-menu-dandan.svg');
+}
+.ico-menu-atm-machine {
+    background-image: url('assets/images/NewMenu/ico-menu-atm-machine.svg');   
+}
+
+.ico-menu-pos-indonesia {
+    background-image: url('assets/images/NewMenu/ico-menu-pos-indonesia.svg');   
+}
+
+.ico-hapus-autodebit {
+    background-image: url('assets/images/NewMenu/Hapus_autodebet.svg');
+    width: 1rem;
+    height: 1rem;
+}
+
+.ico-info-autodebit {
+    background-image: url('assets/images/NewMenu/Information_autodebet.svg');
+}
+
+.ico-checked-autodebit {
+    background-image: url('assets/images/NewMenu/Checked_autodebet.svg');
+}
+
+.ico-unchecked-autodebit {
+    background-image: url('assets/images/NewMenu/Un-checked_autodebet.svg');
+}
+
+.ico-emptyChecked-autodebit {
+    background-image: url('assets/images/NewMenu/empty-check_autodebet.svg');
+}
+.ico-emptyCheckedGrey-autodebit {
+    background-image: url('assets/images/NewMenu/empty-check-grey_autodebet.svg');
+}
+
+.ico-menu-digital-voucher {
+    background-image: url("assets/images/NewMenu/ico-menu-digital-voucher.png");
+}	
+
+.ico-menu-e-voucher {
+    background-image: url("assets/images/NewMenu/ico-menu-e-voucher.png");
+}	
+
+.ico-menu-games {
+    background-image: url("assets/images/NewMenu/ico-menu-games.png");
+}	
+
+.ico-menu-streaming {
+    background-image: url("assets/images/NewMenu/ico-menu-streaming.png");
+}	
+
+/* NOTE : End New Icon BNI  */
+
+.ico-info-userID{
+    background-image: url('assets/images/info_icon.svg');
+    display: inline-block;
+    margin-right: 0;
+}
+
+.ico-information-laporan-Konsolidasi{
+    background-image: url('assets/images/ico-information-laporan-Konsolidasi.svg');
+    display: inline-block;
+    margin-right: 0;
+}
+
+.ico-digital-loan-fleksi {
+    background-image: url('assets/images/bniNewIcon/ico-fleksi-new.png');
+}
+
+.ico-digital-loan-fleksi-red {
+    background-image: url('assets/images/NewMenu/ico-fleksi-new-red.png');
+}
+
+.ico-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-peduli-lindungi.png');
+}
+
+.ico-peduli-lindungi-circle{
+    background-image: url('assets/images/NewMenu/ico-peduli-lindungi-circle.png');
+}
+
+.ico-powered-peduli-lindungi{
+    width: 100%;
+    height: 100px;
+    background-image: url('assets/images/NewMenu/ico-powered-peduli-lindungi.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.ico-information-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-information-peduli-lindungi.svg');
+}
+
+.ico-information-black-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-information-black-peduli-lindungi.svg');
+}
+
+.ico-success-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-success-peduli-lindungi.svg');
+}
+
+.ico-qr-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-qr-peduli-lindungi.svg');
+}
+
+.ico-category-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-category-peduli-lindungi.svg');
+}
+
+.ico-date-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-date-peduli-lindungi.svg');
+}
+
+.ico-location-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-location-peduli-lindungi.svg');
+}
+
+.ico-name-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-name-peduli-lindungi.svg');
+}
+
+.ico-nik-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-nik-peduli-lindungi.svg');
+}
+
+.ico-warning-peduli-lindungi{
+    background-image: url('assets/images/NewMenu/ico-warning-peduli-lindungi.svg');
+}
+
+
+.ico-informasi-digibond {
+    background-image: url('assets/images/NewMenu/ico-information-obligasi.svg');
+    
+}
+.ico-not-found-peduli-lindungi{
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-image: url('assets/images/NewMenu/ico-not-found-peduli-lindungi.svg');
+}
+
+.ico-camera-ocr{
+    background-image: url('assets/images/NewMenu/ico-camera-ocr.svg');
+}
+
+.ico-mpin-show {
+    background-image: url('assets/images/WelcomePage/mpinShow.svg');
+}
+
+.ico-whatsapp {
+    background-image: url('assets/images/WelcomePage/ico-whatsapp.svg');
+}
+
+.ico-whatsapp-white {
+    background-image: url('assets/images/WelcomePage/ico-whatsapp-white.svg');
+}
+.ico-whatsapp-orange{
+    background-image: url('assets/images/WelcomePage/ico-whatsapp-orange.svg');
+}
+
+.ico-circle-check-green {
+    background-image: url('assets/images/WelcomePage/ico-check-circle-green.svg');
+}
+
+.ico-information-tosca{
+    background-image: url('assets/images/NewMenu/ico-information-peduli-lindungi.svg');
+}
+
+.ico-information-darkyellow {
+    background-image: url('assets/images/NewMenu/ico-info-bnidollar.svg');
+}
+
+.ico-desclaimer{
+    width :10px;
+    height:15px;
+    background-position:left top;
+    background-image: url('assets/images/NewMenu/info_icon_2.svg');
+}
+
+/* Create SID reksadana */
+.ico-reksadana-risk-profile {
+    background-image: url('assets/images/NewReksadana/RiskProfileLogo.svg');
+}
+.ico-pembukaan-rekening-investasi {
+    background-image: url('assets/images/NewReksadana/InvestasiPembukaanRek.svg');
+}
+.ico-transaksi-investasi {
+    background-image: url('assets/images/NewReksadana/InvestasiTransfer.svg');
+}
+.ico-portofolio-investasi {
+    background-image: url('assets/images/NewReksadana/InvestasiPieChart.svg');
+}
+.ico-reksadana-transaksi1 {
+    background-image: url('assets/images/NewReksadana/investasi.svg');
+}
+.ico-reksadana-informasi {
+    background-image: url('assets/images/NewReksadana/Investasi2.svg');
+    width :35px;
+    height:35px;
+}
+.ico-reksadana-profil-risiko {
+    background-image: url('assets/images/NewReksadana/Investasi3.svg');
+}
+
+.ico-reksadana-exclamation-mark {
+    background-image: url('assets/images/NewReksadana/Vector-2.svg');
+}
+
+.ico-copy-black{
+    background-image: url('assets/images/ico-copy-black.png');
+    width: 15px;
+    height: 20px;
+    margin: 0px !important;
+    color: white;
+}
+
+.ico-success-blue {
+    background-image: url('assets/images/ico-success-blue.png');
+    width: 18px;
+    height: 18px;
+}
+
+.ico-camera-yellow{
+    background-image: url('assets/images/ico-camera-yellow.png');
+    width: 20px !important;
+    height: 18px !important;
+}
+
+.ico-debit-control-aktivasi-kartu {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/ico-aktivasi-kartu-debit.svg');
+}
+.ico-debit-control-ganti-kartu-debit {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-ganti-kartu-debit.svg');
+}
+
+.ico-debit-control-ubah-PIN-kartu-debit {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-ubah-PIN-kartu-debit.svg');
+}
+
+.ico-debit-control-reset-PIN-kartu-debit {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-reset-PIN-kartu-debit.svg');
+}
+
+.ico-debit-control-blokir-kartu-debit {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-blokir-kartu-debit.svg');
+}
+
+.ico-debit-control-aktivasi-SMS-notifikasi {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-aktivasi-SMS-notifikasi.svg');
+}
+
+.ico-debit-control-ganti-kartu-debit-disable {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-ganti-kartu-debit-disable.svg');
+}
+
+.ico-debit-control-ubah-PIN-kartu-debit-disable {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-ubah-PIN-kartu-debit-disable.svg');
+}
+
+.ico-debit-control-reset-PIN-kartu-debit-disable {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-reset-PIN-kartu-debit-disable.svg');
+}
+
+.ico-debit-control-aktivasi-SMS-notifikasi-disable {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-aktivasi-SMS-notifikasi-disable.svg');
+}
+
+.ico-debit-control-blokir-kartu-debit-disable {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-blokir-kartu-debit-disable.svg');
+}
+
+
+.ico-debit-control-icon-lainnya {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-lainnya.svg');
+}
+
+.ico-debit-control-hide-CVV {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-hide-CVV.svg');
+}
+
+.ico-hatihati-warn
+{
+    background-image: url('.assets/.assets/assets/icons/images/ico-hatihati-orange.svg');
+}
+
+.ico-debit-control-show-CVV {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-show-CVV.svg');
+}
+
+/* PortofolioInvestasi */
+.ico-portofolio-investasi-rdn-kuegulung {
+    background-image: url('assets/images/PortofolioInvestasi/reksadana.svg');
+}
+
+.ico-portofolio-investasi-obligasi-kuedadar {
+    background-image: url('assets/images/PortofolioInvestasi/obligasi.svg');
+}
+
+.ico-portofolio-investasi-saham-kuekukus {
+    background-image: url('assets/images/PortofolioInvestasi/sbn_ritel.svg');
+}
+
+.ico-portofolio-investasi-portfolio-investasi {
+    background-image: url('assets/images/PortofolioInvestasi/portfolio_investasi.svg');
+}
+
+.ico-history-transaction {
+    background-image: url('assets/images/PortofolioInvestasi/ico-history-transaction.svg');
+}
+/* End PortofolioInvestasi */
+
+
+/* BNI Life */
+.ico-bni-life-new-product {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-new-product.svg');
+}
+
+.ico-bni-life-manfaat {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-manfaat.svg');
+}
+
+.ico-bni-life-riwayat {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-riwayat.svg');
+}
+
+.ico-bni-life-dashboard {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-dashboard.svg');
+}
+
+.ico-bni-life-lokasi {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-lokasi.svg');
+}
+
+.ico-bni-life-new-product {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-new-product.svg');
+}
+
+.ico-arrow-right-bni-life{
+	background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-page-right.svg');
+	width:50%;
+}
+
+.ico-arrow-left-bni-life{
+	background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-page-left.svg');
+}
+
+/* End BNI Life */
+
+/* Location BNI Life */
+.ico-bni-life-loc-turn-right {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-loc-turn-right.svg');
+}
+
+.ico-bni-life-loc-telp {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-loc-telp.svg');
+}
+
+.ico-bni-life-loc-maps {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-loc-maps.svg');
+}
+
+.ico-bni-life-loc-arrow-right {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-loc-arrow-right.svg');
+    width:30%;
+}
+
+.ico-bni-life-loc-optik {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-loc-optik.svg');
+}
+
+.ico-bni-life-loc-lab {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-loc-lab.svg');
+}
+
+.ico-bni-life-loc-apotek {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-loc-apotek.svg');
+}
+
+.ico-bni-life-loc-klinik {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-loc-klinik.svg');
+}
+
+.ico-bni-life-pt {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-loc-pt.svg');
+}
+
+.ico-bni-life-loc-pointer {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-loc-pointer.svg');
+}
+
+.ico-bni-life-logo {
+    background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-logo.svg');
+    /*background-image: url('assets/images/AssetTask1/icon_bni_life_product/ico-bni-life-logo.png');
+    max-width: 40%;
+    width: 25px;
+    height: 19px;*/
+}
+
+.ico-search {
+    background-image: url('assets/images/searchiconorange.png');
+    background-repeat: no-repeat;
+}
+
+/* Location BNI Life */
+
+
+.ico-binding-ewallet {
+    background-image: url('assets/images/binding-ewallet.svg');
+}
+
+/* Taplus Anak */
+.ico-taplusanak {
+    background-image: url('assets/images/taplusanak.png');
+}
+
+.ico-taplusanak-perisai {
+    background-image: url('assets/images/NewMenu/ico-menu-perisai.svg');
+}
+.ico-taplusanak-wajah {
+    background-image: url('assets/images/NewMenu/ico-taplusanak-wajah.svg');
+}
+/* End Taplus Anak */
+
+/* Reksadana Fase 2 */
+.ico-reksadana2-risk-profile-pie-kue {
+    background-image: url('assets/images/NewReksadanaFase2/pie-kue-rdn.svg');
+}
+.ico-reksadana2-vector-tanda-seru-biruMuda {
+    background-image: url('assets/images/NewReksadanaFase2/VectorTandaSeruBiruMuda.svg');
+}
+.ico-reksadana2-logo-reksadana-kecil {
+    background-image: url('assets/images/NewReksadanaFase2/ReksadanaKecilBanget.svg');
+}
+.ico-reksadana2-logo-obligasi-kecil {
+    background-image: url('assets/images/NewReksadanaFase2/ObligasiFase2.svg');
+}
+.ico-reksadana2-logo-sbn-kecil {
+    background-image: url('assets/images/NewReksadanaFase2/SBNRitelFase2.svg');
+}
+.ico-reksadana2-logo-reksadana-tanaman-pot {
+    background-image: url('assets/images/NewReksadanaFase2/reksadanaTanamanPot.svg');
+}
+.ico-reksadana2-logo-reksadana-tanda-seru-abu {
+    background-image: url('assets/images/NewReksadanaFase2/tandaseru.svg');
+}
+
+.ico-reksadana2-logo-reksadana-tombol-back-item {
+    background-image: url('assets/images/NewReksadanaFase2/tombolBackRDN.svg');
+    }
+.ico-reksadana2-logo-reksadana-tombol-edit-hijau-daun {
+    background-image: url('assets/images/NewReksadanaFase2/Edit-Square.svg');
+    }
+.ico-reksadana2-logo-reksadana-tombol-rekening-invest {
+    background-image: url('assets/images/NewReksadanaFase2/portfolio-investasi-ico.svg');
+    }
+.ico-reksadana2-logo-reksadana-tombol-lap-kon {
+    background-image: url('assets/images/NewReksadanaFase2/laporan-konsolidasi.svg');
+    }
+.ico-reksadana2-logo-reksadana-tombol-saham-oranyee {
+    background-image: url('assets/images/NewReksadanaFase2/saham.svg');
+    } 
+.ico-reksadana2-logo-reksadana-indo-switch {
+    background-image: url('assets/images/NewReksadanaFase2/Indonesia.svg');
+    position: relative;
+    border-radius: 15px;
+    left: 55px;
+    } 
+.ico-reksadana2-logo-reksadana-United-States-switch {
+    background-image: url('assets/images/NewReksadanaFase2/United-States.svg');
+    position: relative;
+    border-radius: 15px;
+    left: 5px;
+    } 
+.ico-debit-control-noCard {
+    background-image: url('assets/images/AssetTask1/icon_debit_control/icon-noCard.svg');
+}
+
+.ico-information-warning{
+    background-image: url('assets/images/NewMenu/ico-information-warning.svg');
+}
+
+/*Lifestyle*/
+
+.ico-lifestyle {
+    background-image: url('assets/images/icon-lifestyle.svg');
+}
+.ico-lifestyle-penerbangan {
+    background-image: url('assets/images/icon-lifestyle-penerbangan.svg');
+    width :30px;
+    height:30px;
+}
+.ico-lifestyle-taksi {
+    background-image: url('assets/images/icon-lifestyle-bluebird_new.png');
+}
+.ico-lifestyle-history {
+    background-image: url('assets/images/icon-lifestyle-history.svg');
+    width :30px;
+    height:30px;
+}
+/*end lifestyle*/
+
+.ico-gopay-new {
+        background-image: url('assets/images/ico-gopay-new.svg');
+    }
+
+.ico-left-arrow-modal {
+	background-image: url('assets/images/ico-left-arrow-modal.svg');
+	width :15px;
+}
+
+.ico-right-arrow-modal {
+	background-image: url('assets/images/ico-right-arrow-modal.svg');
+	width :15px;
+}
+
+.ico-right-arrow-orange-modal {
+	background-image: url('assets/images/ico-right-arrow-orange-modal.svg');
+	width :15px;
+}
+
+.ico-down-arrow-modal {
+	background-image: url('assets/images/ico-down-arrow-modal.svg');
+	width :40px;
+}
+
+.ico-riwayat-kinerja-reksadana {
+    background-image: url('assets/images/AssetTask1/icon_reksadana/bg-riwayat-kinerja.png');
+    max-width: 27%;
+}
+
+.ico-download-2 {
+    background-image: url('assets/images/AssetTask1/icon_reksadana/ico_download_2.svg');
+} 
+
+
+
+/* SBN Retail new Icon */
+.ico-pengaturan-rekening-dana-daftar-new {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/Daftar.svg");
+}
+.ico-pengaturan-rekening-dana-hapus-new {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/Hapus.svg");
+}
+.ico-pengaturan-rekening-dana-surat-new {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/Rekening Surat Berharga.svg");
+}
+.ico-pengaturan-rekening-dana-dana-new {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/Rekening Dana.svg");
+}
+.ico-pengaturan-rekening-dana-retail-new {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/SBN Retail.svg");
+}
+.ico-sbn-retail {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/ico-sbn-retail.svg");
+}
+.ico-early-redemtion {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/ico-early-redemtion.svg");
+}
+.ico-trx-history {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/ico-trx-history.svg");
+}
+.ico-account-setting {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/ico-account-setting.svg");
+}
+.ico-rekening-dana {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/ico-rekening-dana.svg");
+}
+.ico-rekening-surat-berharga {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/ico-rekening-surat-berharga.svg");
+}
+.ico-arrow-down {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/arrow-down.svg");
+}
+.ico-tnc-sbn {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/ico-tnc-sbn.svg");
+    background-repeat:no-repeat!important;
+}
+.ico-booking-sbnRitel {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/booking-new-sbnRitel.svg");
+}
+.ico-payments-sbnRitel {
+    background-image: url("assets/images/AssetTask1/icon_sbn_retail/payments-new-sbnRitel.svg");
+}
+/* end SBN Retail new Icon */
+
+/* Reksadana new ICON */
+.ico-reksadana-redemption {
+    background-image: url('assets/images/Reksadana/ico-reksadana-redemption.svg');  
+    width :27px; 
+}
+.ico-reksadana-topup {
+    background-image: url('assets/images/Reksadana/ico-reksadana-topup.svg');   
+    width :28px; 
+}
+.ico-reksadana-switching {
+    background-image: url('assets/images/Reksadana/ico-reksadana-switching.svg');   
+    width :26px; 
+}
+.ico-reksadana-history-transaction {
+    background-image: url('assets/images/Reksadana/ico-reksadana-history-transaction.svg');   
+    width :39px; 
+}
+/* End Reksadana new ICON */
+
+
+.ico-copy-orange {
+    background-image: url('assets/images/NewMenu/ico-copy-orange.svg');
+    width: 16px;
+    height: 16px;
+}
+
+
+
+/*Setting group icon*/
+.ico-aktivasi-ln {
+    background-image: url('assets/images/Setting/ico-aktivasi-ln.svg');
+}
+
+.ico-atur-debit {
+    background-image: url('assets/images/Setting/ico-atur-debit.svg');
+}
+
+.ico-biometrik-new {
+    background-image: url('assets/images/Setting/ico-biometrik-new.svg');
+}
+
+.ico-blokir-saldo-new {
+    background-image: url('assets/images/Setting/ico-blokir-saldo-new.svg');
+}
+
+.ico-bukti-trx {
+    background-image: url('assets/images/Setting/ico-bukti-trx.svg');
+}
+
+.ico-change-device {
+    background-image: url('assets/images/Setting/ico-change-device.svg');
+}
+
+.ico-change-pin {
+    background-image: url('assets/images/Setting/ico-change-pin.svg');
+}
+
+.ico-password-trx {
+    background-image: url('assets/images/Setting/ico-password-trx.svg');
+}
+
+.ico-refferal-new {
+    background-image: url('assets/images/Setting/ico-refferal-new.svg');
+}
+
+.ico-setting-bifast {
+    background-image: url('assets/images/Setting/ico-setting-bifast.svg');
+}
+
+.ico-sms-notif {
+    background-image: url('assets/images/Setting/ico-sms-notif.svg');
+}
+
+
+/*End Setting group icon*/
+
+.ico-search-bar {
+    background-image: url("assets/images/ico-search.svg");
+    background-repeat:no-repeat !important;
+}
+
+.ico-otp-lupampin{
+    background-image: url('assets/images/email-registration2.svg');
+}
+/* SMS Banking*/
+.icon-menu-Home{
+    background: url("assets/images/SMSBanking/menus/Home.svg") center no-repeat, transparent;
+}
+
+.icon-subMenu-Payment-KartuKredit{
+    background: url("assets/images/SMSBanking/menus/payments/KartuKredit.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-TeleponPascaBayar{
+    background: url("assets/images/SMSBanking/menus/payments/TeleponPascaBayar.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-Listrik{
+    background: url("assets/images/SMSBanking/menus/payments/Listrik.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-Bpjs{
+    background: url("assets/images/SMSBanking/menus/payments/Bpjs.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-PdamIpl{
+    background: url("assets/images/SMSBanking/menus/payments/PdamIpl.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-InternetTvBerlangganan{
+    background: url("assets/images/SMSBanking/menus/payments/TvInternet.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-Tiket{
+    background: url("assets/images/SMSBanking/menus/payments/Tiket.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-ZisQurban{
+    background: url("assets/images/SMSBanking/menus/payments/ZisQurban.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-PenerimaanNegara{
+    background: url("assets/images/SMSBanking/menus/payments/PenerimaanNegara.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-Asuransi{
+    background: url("assets/images/SMSBanking/menus/payments/Asuransi.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-PinjamanPersonal{
+    background: url("assets/images/SMSBanking/menus/payments/PinjamanPersonal.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-Samsat{
+    background: url("assets/images/SMSBanking/menus/payments/Samsat.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-AngsuranMultifinance{
+    background: url("assets/images/SMSBanking/menus/payments/AngsuranMultifinance.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-Pendidikan{
+    background: url("assets/images/SMSBanking/menus/payments/Pendidikan.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-Kai{
+    background: url("assets/images/SMSBanking/menus/payments/Kai.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-Pgn{
+    background: url("assets/images/SMSBanking/menus/payments/Pgn.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-Tki{
+    background: url("assets/images/SMSBanking/menus/payments/Tki.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Payment-Kepelabuhanan{
+    background: url("assets/images/SMSBanking/menus/payments/Kepelabuhanan.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Purchase-TokenListrik{
+    background: url("assets/images/SMSBanking/menus/purchases/TokenListrik.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Purchase-Pulsa{
+    background: url("assets/images/SMSBanking/menus/purchases/Pulsa.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Purchase-TokenListrik{
+    background: url("assets/images/SMSBanking/menus/purchases/TokenListrik.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Purchase-PaketData{
+    background: url("assets/images/SMSBanking/menus/purchases/PaketData.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Purchase-PertaminaLPG{
+    background: url("assets/images/SMSBanking/menus/purchases/PertaminaLPG.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Purchase-VoucherOrangeTv{
+    background: url("assets/images/SMSBanking/menus/purchases/VoucherOrangeTv.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-TopUp-Tapcash{
+    background: url("assets/images/SMSBanking/menus/topups/Tapcash.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-TopUp-LinkAja{
+    background: url("assets/images/SMSBanking/menus/topups/LinkAja.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-TopUp-GoPay{
+    background: url("assets/images/SMSBanking/menus/topups/Gopay.png") center no-repeat, #FFFFFF;
+    background-size: 8vh;
+}
+
+.icon-subMenu-TopUp-Shopee{
+    background: url("assets/images/SMSBanking/menus/topups/Shopee.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-TopUp-Ovo{
+    background: url("assets/images/SMSBanking/menus/topups/Ovo.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-TopUp-Dana{
+    background: url("assets/images/SMSBanking/menus/topups/Dana.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-TopUp-ISaku{
+    background: url("assets/images/SMSBanking/menus/topups/ISaku.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Information-InformasiSaldo{
+    background: url("assets/images/SMSBanking/menus/informations/InformasiSaldo.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Information-MutasiTransaksi{
+    background: url("assets/images/SMSBanking/menus/informations/MutasiTransaksi.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Information-RekeningDPLK{
+    background: url("assets/images/SMSBanking/menus/informations/RekeningDPLK.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Information-DaftarRekening{
+    background: url("assets/images/SMSBanking/menus/informations/DaftarRekening.png") center no-repeat, #FFFFFF;
+    background-size: 4.5vh;
+}
+
+.icon-subMenu-Information-InformasiTagihan{
+    background: url("assets/images/SMSBanking/menus/informations/InformasiTagihan.svg") center no-repeat, #FFFFFF;
+}
+
+.icon-subMenu-Setting-GantiPIN{
+    background: url("assets/images/SMSBanking/menus/settings/GantiPin.png") center no-repeat, #FFFFFF;
+    background-size: 4.5vh;
+}
+
+.icon-subMenu-Setting-GantiRekening{
+    background: url("assets/images/SMSBanking/menus/settings/GantiRekening.png") center no-repeat, #FFFFFF;
+    background-size: 4.5vh;
+}
+
+.icon-subMenu-Favorite-Trash{
+    background: url("assets/images/SMSBanking/menus/favorites/Trash.svg") center no-repeat, transparent;
+    height: 2rem;
+    width: 2rem;
+    float: left;
+    flex-direction: column!important;
+    justify-content: center!important;
+}
+
+.icon-subMenu-Favorite-ArrowBottom{
+    background: url("assets/images/SMSBanking/menus/favorites/ArrowBottom.svg") center no-repeat, transparent;
+    height: 2rem;
+    width: 2rem;
+}
+
+.icon-subMenu-Favorite-Find{
+    background: url("assets/images/SMSBanking/menus/favorites/Find.png") center no-repeat, transparent;
+    background-size: 1.8rem;
+    width: 2.5rem;
+}
+
+.icon-subMenu-Transfer-BNI{
+    background: url("assets/images/SMSBanking/menus/transfers/TransferBNIMenu.png") center no-repeat, transparent;
+    background-size: 3rem;
+}
+
+.icon-subMenu-Transfer-Antarbank{
+    background: url("assets/images/SMSBanking/menus/transfers/AntarBankMenu.png") center no-repeat, transparent;
+    background-size: 3rem;
+}
+
+
+
+.icon-favorite{
+    background: url("assets/images/SMSBanking/menus/favorite.svg") center no-repeat, #FF713C  repeat;
+}
+
+.icon-information{
+    background: url("assets/images/SMSBanking/menus/information.svg") center no-repeat, #CCEEEEED repeat;
+}
+
+.icon-transfer{
+    background: url("assets/images/SMSBanking/menus/transfer.svg") center no-repeat, #707070 repeat;
+}
+
+.icon-payment{
+    background: url("assets/images/SMSBanking/menus/payment.svg") center no-repeat, #FFB800 repeat;
+}
+
+.icon-purchase{
+    background: url("assets/images/SMSBanking/menus/purchase.svg") center no-repeat, #378C9C repeat;
+}
+
+.icon-e-wallet{
+    background: url("assets/images/SMSBanking/menus/e-wallet.svg") center no-repeat, #E5E5E5 repeat;
+}
+
+.icon-header-arrowBack{
+    background: url("assets/images/SMSBanking/menus/arrowBack.svg") center no-repeat;
+    width: 2.5rem;
+    height: 2.5rem;
+    cursor:pointer;
+    box-sizing: border-box;
+    border: none;
+}
+
+.icon-header-home{
+    background: url("assets/images/SMSBanking/menus/Home.svg") center no-repeat;
+    float: left;
+    align-items: start;
+    width: 2.5rem;
+    height: 2.5rem;
+    cursor:pointer;
+    box-sizing: border-box;
+    border: none;
+}
+/* END SMS Banking*/
+
+.ico-transaksiterbukuCC-new {
+    background-image: url('assets/images/TransaksiTerbuku.svg');
+}
+
+.ico-informasitagihanCC-new {
+    background-image: url('assets/images/informasiTagihan.svg');
+}
+
+.ico-success-blue-new {
+    background-image: url('assets/images/ico-success-blue.svg');
+}
+
+.ico-clock2 {
+    background-image: url('assets/images/clock-2.svg');
+}
+
+.ico-atm-machine-2 {
+    background-image: url('assets/images/atm-machine-2.svg');
+}
+
+.ico-rate-pair {
+    background-image: url('assets/images/ico-rate-pair.svg');
+}
+
+.ico-atur-transfer-bank {
+    background-image: url('assets/images/NewMenu/aturTrfAntarBank.svg');
+}
+
+
+.ico-ulang-tahun-biru
+{
+    background-image: url('assets/images/bniNewIcon/ico-ulangtahun.svg');
+}
+
+.ico-lampu-biru
+{
+    background-image: url('assets/images/bniNewIcon/ico-lampu-birumuda.svg');
+}
+
+.ico-warning-biru-muda
+{
+    background-image: url('assets/images/bniNewIcon/ico-warning-birumuda.svg');
+}
+
+.ico-ubah-pin-CC {
+    background-image: url('assets/images/ico-ubah-pin-CC.png');
+}
+
+.ico-search-orange {
+    background-image: url('assets/images/NewMenu/ico-search-orange.svg');
+    background-repeat: no-repeat;
+}
+
+.ico-failed {
+    background-image: url('assets/images/ico-failed.svg');
+}
+
+.info-javajazz {
+    background-image: url('assets/images/info-javajazz.svg');
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    width: 100%;
+  
+}
+
+.ico-warning-orange-new {
+    background-image: url('assets/images/ico-warning-orange-new.svg');
+    width: 27.37px;
+    height: 24px;
+}
+
+.ico-menu-event {
+    background-image: url('assets/images/NewMenu/ico-menu-event.svg');
+}
+
+.ico-merchant
+{
+    background-image: url('assets/images/ico-merchant.svg');
+    background-repeat: no-repeat;
+}
+
+.ico_bni_156
+{
+    background-image: url('assets/images/AssetTask1/icon_qris_cb/ico_bni_156.svg');
+    background-repeat: no-repeat;
+}
+
+.ico_bni_360
+{
+    background-image: url('assets/images/AssetTask1/icon_qris_cb/ico_bni_360.svg');
+    background-repeat: no-repeat;
+}
+
+.ico_bni_392
+{
+    background-image: url('assets/images/AssetTask1/icon_qris_cb/ico_bni_392.svg');
+    background-repeat: no-repeat;
+}
+
+.ico_bni_458
+{
+    background-image: url('assets/images/AssetTask1/icon_qris_cb/ico_bni_458.svg');
+    background-repeat: no-repeat;
+}
+
+.ico_bni_608
+{
+    background-image: url('assets/images/AssetTask1/icon_qris_cb/ico_bni_608.svg');
+    background-repeat: no-repeat;
+}
+
+.ico_bni_682
+{
+    background-image: url('assets/images/AssetTask1/icon_qris_cb/ico_bni_682.svg');
+    background-repeat: no-repeat;
+}
+
+.ico_bni_702
+{
+    background-image: url('assets/images/AssetTask1/icon_qris_cb/ico_bni_702.svg');
+    background-repeat: no-repeat;
+}
+
+.ico_bni_764
+{
+    background-image: url('assets/images/AssetTask1/icon_qris_cb/ico_bni_764.svg');
+    background-repeat: no-repeat;
+}
+
+/* New Menu 2023 */
+.ico-home-2023{
+    background-image: url(assets/images/NewMenu2023/ico-home-2023.svg);
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-history-2023{
+    background-image: url(assets/images/NewMenu2023/ico-history-2023.svg);
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-favorite-2023{
+    background-image: url(assets/images/NewMenu2023/ico-favorite-2023.svg);
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-setting-2023{
+    background-image: url(assets/images/NewMenu2023/ico-setting-2023.png);
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-qris-2023{
+    background-image: url(assets/images/NewMenu2023/ico-qris-2023.svg);
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-bni-logo{
+    background-image: url(.assets/images/1024px-BNI_logo.png);
+    width: 86px;
+    height: 28px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-notification-home{
+    background-image: url(assets/images/NewMenu2023/ico-notification-home.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-logout-home{
+    background-image: url(assets/images/NewMenu2023/ico-logout-home.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-visibility-off{
+    background-image: url(assets/images/NewMenu2023/ico-visibility-off.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-visibility-on{
+    background-image: url(assets/images/NewMenu2023/ico-visibility-on.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-copy-white{
+    background-image: url(assets/images/NewMenu2023/ico-copy-white.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-arrow-white-down{
+    background-image: url(assets/images/NewMenu2023/ico-arrow-white-down.svg);
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-custom-menu{
+    background-image: url(assets/images/NewMenu2023/ico-custom-menu.svg);
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    background-size: 100% 100%;
+    vertical-align: middle
+}
+
+.ico-back-black-2023{
+    background-image: url(assets/images/NewMenu2023/ico-back-black.svg);
+    width: 22px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-search-2023{
+    background-image: url(assets/images/NewMenu2023/ico-search.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-close-circle-2023{
+    background-image: url(assets/images/NewMenu2023/ico-close-circle.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-arrow-down-orange-2023{
+    background-image: url(assets/images/NewMenu2023/ico-arrow-down-orange.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-arrow-up-orange-2023{
+    background-image: url(assets/images/NewMenu2023/ico-arrow-up-orange.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-new-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-new.svg);
+    width: 30px;
+    height: 16px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-no-result-search-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-no-result-search.svg);
+    width: 100%;
+    height: 128px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-info-prelogin-2023{
+    background-image: url(assets/images/WelcomePage/information_prelogin.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-info-ojk-2023{
+    background-image: url(assets/images/NewMenu2023/ico-info-ojk.svg);
+    width: 295px;
+    height: 68px;
+    display: inline-block;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 40%;
+    left: 12%;
+}
+
+.ico-chat-us-headset-2023{
+    background-image: url(assets/images/NewMenu2023/ico-chat-us-headset.svg);
+    width: 30px;
+    height: 16px;
+    display: inline-block;
+    background-size: 100% 100%;
+    vertical-align: middle
+}
+
+.ico-face-recog-login-2023{
+    background-image: url(assets/images/NewMenu2023/ico-face-recog-login.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: 100% 100%;
+    vertical-align: middle
+}
+
+.ico-close-white-2023{
+    background-image: url(assets/images/NewMenu2023/ico-close-white.svg);
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-warning-white-2023{
+    background-image: url(assets/images/NewMenu2023/ico-warning-white.svg);
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+/* Icon Menu 2023 */
+.ico-menu-transfer-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-transfer-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-ewallet-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-ewallet-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-payment-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-payment-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-purchase-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-purchase-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-investasi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-investasi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-life-goals-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-life-goals-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-digital-loan-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-digital-loan-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-my-credit-card-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-my-credit-card.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-rekeningku-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-rekeningku-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-mobile-tunai-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-mobile-tunai-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-dikado-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-dikado-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-lain-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-lain-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-tabungan-giro-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-tabungan-giro-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-deposito-tapenas-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-deposito-tapenas-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-dplk-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-dplk-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pinjaman-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pinjaman-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pencairan-deposito-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pencairan-deposito-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pembukaan-rekening-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pembukaan-rekening-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-rekening-investasi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-rekening-investasi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-laporan-konsolidasi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-laporan-konsolidasi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-portofolio-investasi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-portofolio-investasi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-transaksi-investasi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-transaksi-investasi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-tapcash-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-tapcash-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-linkaja-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-linkaja-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-gopay-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-gopay-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-shopeepay-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-shopeepay-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-ovo-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-ovo-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-dana-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-dana-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-isaku-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-isaku-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pulsa-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pulsa-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-paket-data-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-paket-data-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-token-listrik-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-token-listrik-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-voucher-tv-berlangganan-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-voucher-tv-berlangganan-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-top-up-agen-penerbangan-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-top-up-agen-penerbangan-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-digital-voucher-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-digital-voucher-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-event-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-event-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-rekening-sendiri-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-rekening-sendiri-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-antar-bni-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-antar-bni-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-antar-bank-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-antar-bank-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-dana-pensiun-bni-simponi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-dana-pensiun-bni-simponi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-virtual-account-billing-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-virtual-account-billing-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-international-remittance-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-international-remittance-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-kartu-kredit-bni-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-kartu-kredit-bni-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-kartu-kredit-bank-lain-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-kartu-kredit-bank-lain-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pasca-bayar-telepon-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pasca-bayar-telepon-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-listrik-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-listrik-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-penerimaan-negara-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-penerimaan-negara-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-multifinance-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-multifinance-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-tv-berlangganan-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-tv-berlangganan-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-zis-qurban-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-zis-qurban-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pdam-ipl-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pdam-ipl-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-asuransi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-asuransi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-tiket-kereta-api-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-tiket-kereta-api-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-tiket-pesawat-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-tiket-pesawat-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-internet-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-internet-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-internet-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-internet-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pinjaman-personal-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pinjaman-personal-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pegadaian-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pegadaian-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-biaya-pendidikan-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-biaya-pendidikan-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pajak-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pajak-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pgn-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pgn-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-tki-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-tki-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-samsat-signal-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-samsat-signal-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-bpjs-kesehatan-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-bpjs-kesehatan-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-tabungan-haji-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-tabungan-haji-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-pertamina-lpg-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-pertamina-lpg-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-kepelabuhan-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-kepelabuhan-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-bpjs-ketenagakerjaan-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-bpjs-ketenagakerjaan-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-auto-debit-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-auto-debit-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-digital-invoice-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-digital-invoice-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-debit-online-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-debit-online-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-bni-life-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-bni-life-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-lifestyle-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-lifestyle-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-fx-mobile-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-fx-mobile-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-reksadana-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-reksadana-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-sbn-retail-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-sbn-retail-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-saham-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-saham-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-obligasi-sekunder-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-obligasi-sekunder-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-riwayat-transaksi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-riwayat-transaksi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-digital-voucher-games-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-digital-voucher-games-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-digital-voucher-evoucher-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-digital-voucher-evoucher-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-digital-voucher-streaming-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-digital-voucher-streaming-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-qris-login-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-qris-login-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-lain-login-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-lain-login-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-info-kurs-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-info-kurs-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-jual-beli-valas-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-jual-beli-valas-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-transfer-valas-antar-bni-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-transfer-valas-antar-bni-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-history-transaksi-fx-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-history-transaksi-fx-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-atm-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-atm-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-atm-bank-lain-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-atm-bank-lain-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-agen-46-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-agen-46-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-indomaret-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-indomaret-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-alfamart-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-alfamart-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-alfamidi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-alfamidi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-alfaexpress-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-alfaexpress-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-lawson-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-lawson-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-dandan-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-dandan-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-taksi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-taksi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-tiket-pesawat-lifestyle-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-tiket-pesawat-lifestyle-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%; 
+}
+
+.ico-menu-riwayat-transaksi-lifestyle-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-riwayat-transaksi-lifestyle-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-fleksi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-fleksi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-kartu-kredit-fleksi-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-kartu-kredit-fleksi-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+.ico-menu-purchase-pgn-2023{
+    background-image: url(assets/images/NewMenu2023/ico-menu-purchase-pgn-2023.svg);
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+
+
+
+
+/* End Icon Menu 2023 */
+
+
+
+/* End New Menu 2023 */
