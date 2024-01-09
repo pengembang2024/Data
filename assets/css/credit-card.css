@@ -1,0 +1,292 @@
+.Tengah
+{
+ text-align:center;
+
+}
+
+.left {
+    width: 50%;
+	float: left;
+	word-wrap: break-word;
+}
+.right {
+    width: 50%;
+	float: right;
+	text-align: right;
+	word-wrap: break-word;
+}
+
+.right2{
+    float: right;
+    text-align: right;
+}
+
+.left2{
+    float: left;
+    text-align: left;
+
+}
+
+.menuleft {
+    width: 45%;
+	float: left;
+	word-wrap: break-word;
+}
+.menuright {
+    width: 45%;
+	float: right;
+	text-align: right;
+	word-wrap: break-word;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 7px;
+  left: 54px;
+  color : white;
+  bottom :16px;
+  left :80x;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  color : white;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+
+  top: 60%;
+
+}
+
+.centeredcard {
+  position: absolute;
+  top: 52%;
+  left: 34%;
+  color :white;
+  font-size : 130%;
+}
+
+.bottomLeftCard {
+  position: absolute;
+  top: 70%;
+  left: 34%;
+  color: white;
+  font-size: 90%;
+}
+
+.bottomLeftCardManage {
+  position: absolute;
+  top: 70%;
+  left: 11%;
+  color: white;
+  font-size: 130%;
+}
+
+hr.dashed {
+  border-top: 3px dashed #bbb;
+  color: black;
+}
+
+.boxes {
+  float:right;
+  bottom: 4px;
+  right: 2px;
+  border-radius: 30px;
+  background: #ff6600;
+  padding: 5px;
+  width: 100px;
+  height: 30px;
+}
+
+.card-header{
+  position: fixed; /* stay fixed on top */
+  top: 10px;
+  width: 100%;
+  z-index: 1; /* needed to stay above other elements */
+}
+.list-groups{
+  padding-top: 80px;
+}
+
+.expiration {
+    border: 0px solid #bbbbbb;
+}
+.expiration input {
+    border: 0;
+}
+
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
