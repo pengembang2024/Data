@@ -1,0 +1,128 @@
+body{
+    font-family: 'Montserrat';
+    font-size: 14px;
+    background: #F1F1F1 !important;
+}
+
+.bg-grey {
+    background: #FCFCFC;
+    padding-bottom: 15px !important;
+}
+
+.bg-white{
+    background: #FCFCFC;
+}
+
+.img-profile{
+    width: inherit;
+    border-radius: 40px;
+}
+
+/* .img-wrapper{
+    width: fit-content;
+    height: fit-content;
+    background-color: white;
+} */
+
+.img-update-profile{
+    width: 25px;
+    position: absolute;
+    top: 7vh;
+    right: 5%;
+}
+
+.background-nav{
+    background-color: #1BC1CE;
+    backdrop-filter: blur(4px);
+}
+
+.font-header{
+    color: white;
+}
+
+.font-header-name{
+    font-weight: 700;
+    color: white;
+}
+
+.box-qr{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-qr{
+    width: 80%;
+}
+
+.font-menu-setting{
+    color: #333333;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.arrow-menu-setting{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box-menu-setting{
+    border-bottom: 1px solid #E6EBF0;
+}
+
+.middle-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.select-list-rekening{
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    width: 100%;
+    background: url(../assets/icons/images/arrow-down-grey.png) 95% / 4% no-repeat #FFFFFF;
+}
+
+.img-qr-modal{
+    width: 80%;
+}
+
+.bni-icoNew {
+    width: 7em;
+    height: 2em;
+    display: inline-block;
+    text-align: right;
+    margin: 0.4em 0.05em 0.05em 0.2em;
+    background-size: 100% 100%;
+    height: 111%;
+}
+.scanQR-styleNew {
+    margin-top: 6% !important;
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+    background-size: 83px 88px !important;
+    background-repeat: no-repeat;
+    height: 111%;
+}
+.nav-main-qr-scanNew {
+    height: 76px;
+    width: 68px;
+    position: relative;
+    margin-top: -36px;
+}
+.nav-item{
+    width: 19% !important;
+}
