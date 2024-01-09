@@ -1,0 +1,61 @@
+.full-width {
+    width: 100%;
+}
+
+.rounded-cstm {
+    border-radius: 0.25rem !important;
+    background-color: #ffffff;
+    box-shadow: 1px 2px 3px #ececec;
+}
+
+.rounded-1 {
+    border-radius: 0.25rem !important;
+    background-color: #ffffff;
+}
+
+.select-new {
+    background: url(../../assets/images/icons/ico-down-black.svg) 100% / 5% no-repeat #eee;
+}
+
+.border-cstm {
+    border-bottom: 0px solid #dee2e6!important;
+}
+
+.btn-inline {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 100%;
+    padding-bottom: 10px;
+    margin-left: 0.6rem;
+    margin-right: 0.6rem;
+    border-radius:40px;
+}
+.btn-inline-bs {
+    font-size: 14px;
+    height: 13vw;
+    max-height: 40px;
+    color: #F15A23;
+    border-color: #F15A23;
+    border-radius : 40px;
+}
+
+#card-javajazz {
+    background: #FBFAFA;
+    box-shadow: 0px 4px 10px #DADADA;
+    border-radius: 10px;
+}
+
+.bg-gray {
+    background: #787777 !important;
+}
+.text-gray-label {
+    font-size: 14px;
+    line-height: 18px;
+    color: #787777;
+}
+.text-gray-value {
+    font-size: 14px;
+    line-height: 18px;
+    color: rgba(51, 51, 51, 0.8);
+}
