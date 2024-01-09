@@ -1,0 +1,276 @@
+.modal-dialog-tapcash {
+    position: fixed;
+    top: auto;
+    right: 0px;
+    left: 0px;
+    bottom: 0;
+    background: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.slide-bar{
+    width: 25vw;
+    height: 5px;
+    border-radius: 20px;
+    background-color: black;
+}
+
+.modal-dialog-riwayat {
+    position: fixed;
+    top: auto;
+    right: 0px;
+    left: 0px;
+    bottom: 0;
+    background: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+body{
+    font-family: 'Montserrat';
+}
+
+.headerBackgroud{
+    height: 100%;
+    background: linear-gradient(266.18deg, #015F6B 57.02%, #85D4DE 144.58%);
+}
+.background{
+    background-color: #ffffFF;
+}
+.BNILogo{
+    width: 79px;
+    height: 24px;
+    left: 20px;
+    top: 35px;
+    margin: 3px;
+}
+.logo-point-plus{
+    height: 16px;
+    content: url(../images/pointplusnew.png);
+}
+#slide {
+    width: auto;
+    height: 200px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+.tanyaBNI{
+  display: block;
+  width: 60px;
+  height: 60px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  text-decoration: none;
+  transition: ease all 0.3s;
+  position: fixed;
+  right: 13px;
+  bottom:90px;
+}
+
+.BNIZonaBanner{
+    margin-right: 10px;
+    width: 85vw;
+    border-radius: 8px;
+}
+
+.rekening{
+    background-color: #F15A23;
+    color: #ffffff;
+}
+
+.form-control-new.arrow-down-new {
+    appearance: none;
+    background-color: #E4E3E2;
+    margin-left: 5px;
+    height: 100%;
+}
+
+.form-control-new {
+    border: transparent;
+    font-size: 0.7rem;
+    width: 100%;
+    font-weight: 700;
+    line-height: 1.5;
+    border-radius: 5px;
+}
+
+.img-profile{
+    height: 55px !important;
+    width: 55px !important;
+    border-radius: 50%;
+    /* border-radius: 40px;
+    border: 3px solid rgba(38, 36, 36, 0.62); */
+    /* content: url(../icons/images/NewMenu2023/ico-default-avatar.svg); */
+}
+
+.poin-plus{
+    border-radius: 5px;
+    background-color: #E7EAE9;
+    height: fit-content;
+}
+
+.poin-plus-wrapper{
+    border: 1px solid #D0DDDE;
+    border-radius: 40px;
+    display: inline-block;
+    height: 32px !important;
+    min-width: 110px;
+}
+
+#wrapper-lena {
+    position: absolute;
+    z-index: 9;
+    background-color: transparent;
+    text-align: center;
+    border: none;
+    top: 80%;
+    left: 80%;
+}
+
+#lena-content {
+    cursor: move;
+    z-index: 10;
+}
+
+.saldorekening{
+    border: transparent;
+    padding-left: 3px;
+    font-size: 11px;
+    width: 100%;
+    line-height: 1.5;
+}
+
+.saldo{
+    background-color: #E8E8E8;
+    color: #0e0e0e;
+}
+
+.eyesaldorekening{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url(../icons/images/NewMenu/hide-saldo.svg) 94% / 12% no-repeat;
+}
+
+.imageAvatar{
+    width: inherit;
+    border-radius: 50px;
+    border: 3px solid rgba(38, 36, 36, 0.62);
+    background: rgba(255, 255, 255, 0.51);
+}
+
+.namaAvatar{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 19px;
+    font-weight: bold;
+    color: black;
+    padding-top: 3px;
+}
+
+.rekeningAvatar{
+    font-family: 'Montserrat';
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    padding-top: 3px;
+}
+
+.AvatarBold{
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+
+.AvatarProduk{
+    font-family: 'Montserrat';
+    font-size: 12px;
+    color: black;
+}
+
+.copyrekAvatar{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url(../icons/images/NewMenu/icon_eye_selected.png) 94% / 12% no-repeat;
+}
+
+.icocopy{
+    background: url('./images/AssetTask1/icon_newMenu/Vektor.png');
+    float: right;
+}
+
+.bni-icoNew {
+    width: 7em;
+    height: 2em;
+    display: inline-block;
+    text-align: right;
+    margin: 0.4em 0.05em 0.05em 0.2em;
+    background-size: 100% 100%;
+    height: 111%;
+}
+
+.scanQR-styleNew {
+    margin-top: 6% !important;
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+    background-size: 83px 88px !important;
+    background-repeat: no-repeat;
+    height: 111%;
+}
+
+.nav-main-qr-scanNew {
+    height: 76px;
+    width: 68px;
+    position: relative;
+    margin-top: -36px;
+}
+
+.nav-item{
+    width: 19% !important;
+}
+
+.modal-dialog-tapcash {
+    position: fixed;
+    top: auto;
+    right: 0px;
+    left: 0px;
+    bottom: 0;
+    background: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.background-blue-home{
+    background: url(../icons/images/NewMenu2023/background-blue-home.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 12px;
+}
+
+.arrow-dropdown-account{
+    margin:0; 
+    position: absolute;
+    top: 50%; right: 0;
+    -ms-transform: translateY(-50%); 
+    transform: translateY(-50%);
+}
+
+.custom-menu-btn{
+    color: #FF7F08;
+    border: 1px solid #FF7F08; 
+    border-radius: 999px; 
+    background: #FFFFFF; 
+    height: 32px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.border-promo{
+    border-bottom: 1px solid #D0DDDE;
+}
