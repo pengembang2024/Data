@@ -1,0 +1,359 @@
+.btn-fingerprint {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 13vw !important;
+    height: 13vw !important;
+    margin-top: 0 !important;
+    background-color: #1BC1CE !important;
+}
+
+body, html {
+    height: auto;
+    font-family: 'customSemiBoldFont';
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #005E6A !important;
+    opacity: 0.5; /* Firefox */
+}
+
+
+input, select, textarea {
+    color: #005E6A;
+}
+
+.version {
+    display: flex;
+    margin-top: 0;
+    right: 0;
+    z-index: 1000;
+    top: 0;
+    padding: 5px 8px 5px 5px;
+}
+
+.rounds {
+    position: relative;
+}
+
+.rounds label {
+    background-color: #fff;
+    border: 1px solid #000000;
+    border-radius: 20%;
+    cursor: pointer;
+    height: 20px;
+    left: 20%;
+    position: absolute;
+    top: 5%;
+    width: 20px;
+}
+
+.rounds label:after {
+    border: 2px solid #ffffff;
+    border-top: none;
+    border-right: none;
+    content: "";
+    height: 7px;
+    left: 4px;
+    opacity: 0;
+    position: absolute;
+    top: 4px;
+    transform: rotate(-45deg);
+    width: 11px;
+}
+
+.rounds input[type="checkbox"] {
+    visibility: hidden;
+    width: 16px !important;
+    height: 16px !important;
+}
+
+.rounds input[type="checkbox"]:checked + label {
+    background-color: #F15A23;
+    border-color: #F15A23;
+}
+
+.rounds input[type="checkbox"]:checked + label:after {
+    opacity: 1;
+}
+
+::-webkit-input-placeholder {
+    color: #F15A23;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+    color: #F15A23;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+    color: #F15A23;
+}
+
+:-ms-input-placeholder {
+    color: #F15A23;
+}
+
+.popup {
+    margin: 10px;
+    padding: 25px;
+    position: relative;
+    width: 50px;
+
+}
+
+.popup:after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 20px;
+    border-top: 20px solid blue;
+    border-top-color: inherit;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+}
+
+.floating-container {
+    width: 100%;
+}
+
+.login-header {
+    margin-top: 0 !important;
+}
+
+.login-form {
+    margin-top: 0 !important;
+}
+
+.footer-container {
+    position: fixed !important;
+    width: 100% !important;
+    bottom: 20px !important;
+    right: 10px !important;
+}
+
+.container-login {
+    width: 100%;
+    position: absolute;
+    top: 18%;
+}
+
+#wrapper-lena {
+    position: absolute;
+    z-index: 9;
+    background-color: transparent;
+    text-align: center;
+    border: none;
+    top: 80%;
+    left: 80%;
+}
+
+#lena-content {
+    cursor: move;
+    z-index: 10;
+}
+
+.bg-login {
+    background-attachment: fixed;
+    background-position: center bottom;
+}
+
+.smallStrong {
+    font-weight: 900 !important;
+    font-size: 16px;
+}
+
+body {
+    min-height: 100vh !important;
+    max-width: 100vw !important;
+    overflow: hidden !important;
+}
+
+.bolderFont {
+    font-weight: 700 !important;
+}
+
+#wrapper-peduli-lindungi {
+    position: absolute;
+    z-index: 4;
+    background-color: transparent;
+    text-align: center;
+    border: none;
+    top: 80%;
+    /*right: 72%;*/
+    right: 68%;
+}
+
+.blueEmerald {
+    color: #22424D;
+}
+
+.blur {
+    -webkit-filter: blur(8px);
+    -ms-filter: blur(8px);
+    -moz-filter: blur(8px);
+    -o-filter: blur(8px);
+    filter: blur(8px);
+}
+
+.pd-login {
+    padding: 0.5rem 1.5rem 1.5rem;
+}
+
+/* Main Classes */
+.myinput[type="checkbox"]:before {
+    position: relative !important;
+    display: block !important;
+    width: 11px !important;
+    height: 11px !important;
+    border: 2px solid #000000 !important;
+    content: "";
+    background: #FFFFFF !important;
+}
+
+.myinput[type="checkbox"]:after {
+    position: relative !important;
+    display: block !important;
+    left: 5px !important;
+    top: -11px !important;
+    width: 7px !important;
+    height: 7px !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: #FFFFFF !important;
+    content: "" !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
+
+.myinput[type="checkbox"]:checked:after {
+    background: #000000 !important;
+}
+
+.myinput.large[type="checkbox"]:before {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.myinput.large[type="checkbox"]:after {
+    top: -15px !important;
+    width: 10px !important;
+    height: 10px !important;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+/*Floating Awarness*/
+.alert {
+    padding: 10px;
+    background-color: rgba(27, 193, 206, 0.05);
+    color: #1BC1CE;
+    border-radius: 4px;
+    font-size: 11px;
+    z-index: 9;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: #1BC1CE;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+
+#floatingAwarness{
+    backdrop-filter: blur(6.5px);
+}
+
+#wrapper-sms {
+    position: absolute;
+    z-index: 8;
+    background-color: transparent;
+    text-align: center;
+    border: none;
+    top: 80%;
+    right: 30%;
+}
+
+.menu-icon-login {
+    background: #F6F6F6;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 65px;
+    height: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.badges-new {
+    position: absolute;
+    top: 4px;
+    right: 2px;
+    visibility: hidden;
+}
+
+.badges-number {
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    padding: 8px;
+    visibility: hidden;
+}
+
+.bg-login-46{
+    content: url(../icons/images/WelcomePage/bg_header_new.svg);
+    width: 100vw;
+    position: absolute;
+    top:0;
+    left: 0;
+}
+
+.bni-logo-login{
+    content: url(../images/1024px-BNI_logo.svg);
+    width: 172.14px;
+    margin-top:20vh
+}
+
+.chat-us-button-login{
+    border: 1px solid #D0DDDE;
+    border-radius: 16px;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    background: none;
+    height: 40px;
+    color: #141414;
+}
+
+.btn-login-2023{
+    color: #FFFFFF;
+    background: #1BC1CE;
+    border-radius: 999px;
+    width: 100%;
+    height: 48px;
+    font-size: 16px;
+    font-weight: 600;
+    border-color: transparent !important;
+}
+
+.bg-overlay-attention{
+    z-index: 500;
+    position: absolute;
+    top: -5px;
+    left: 0;
+    width: 100vw;
+    background: url(../icons/images/NewMenu2023/bg-overlay-login-attention.svg);
+    background-size: cover;
+    color: #FFFFFF;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
