@@ -1,0 +1,100 @@
+body{
+    font-family: 'Montserrat';
+    font-size: 14px;
+}
+
+.btn-do-transaction{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    background: #F15A23;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.middle-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.font-name-favorite{
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.font-account-favorite{
+    font-weight: 400;
+    font-size: 11px;
+}
+
+.font-type-favorite{
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.title-delete-modal{
+    font-weight: 600;
+    font-size: 19px;
+}
+
+.content-delete-modal{
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.btn-no-delete{
+    font-weight: 700;
+    font-size: 18px;
+    color: #555555;
+    background: #F8F8F9;
+    width: 100%;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+}
+
+.btn-yes-delete{
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+    background: #F15A23;
+    width: 100%;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+}
+
+.bni-icoNew {
+    width: 7em;
+    height: 2em;
+    display: inline-block;
+    text-align: right;
+    margin: 0.4em 0.05em 0.05em 0.2em;
+    background-size: 100% 100%;
+    height: 111%;
+}
+.scanQR-styleNew {
+    margin-top: 6% !important;
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+    background-size: 83px 88px !important;
+    background-repeat: no-repeat;
+    height: 111%;
+}
+.nav-main-qr-scanNew {
+    height: 76px;
+    width: 68px;
+    position: relative;
+    margin-top: -36px;
+}
+.nav-item{
+    width: 19% !important;
+}
