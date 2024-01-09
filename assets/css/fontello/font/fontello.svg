@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="passwordsymbol" unicode="&#x2022;" d="M724 382l257-139-115-193-259 153 4-285h-221l2 288-259-156-113 193 257 139-257 142 113 193 259-156-2 288h221l-4-288 259 156 115-193-257-142z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
