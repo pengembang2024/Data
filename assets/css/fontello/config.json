@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "f4894de2f3af851d463de428ce8c5cfe",
+      "css": "passwordsymbol",
+      "code": 8226,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M724.4 467.7L981.3 606.8 865.8 800.1 606.5 646.9 611.3 932.1H389.7L392.1 644.5 132.8 800.1 19.6 606.8 276.6 467.7 19.6 326.3 132.8 133 392.1 288.6 389.7 1H611.3L606.5 288.6 865.8 133 981.3 326.3 724.4 467.7Z",
+        "width": 1000
+      },
+      "search": [
+        "passwordsymbol"
+      ]
+    }
+  ]
+}
